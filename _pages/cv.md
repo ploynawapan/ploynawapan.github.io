@@ -15,7 +15,7 @@ Education
   * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)   
 * Ph.D in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
 
-Research experience
+Research experience/ Workshop 
 ======
 
 * Fall 2020/Spring 2021: Honors thesis in mathematics 
@@ -24,15 +24,20 @@ Research experience
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * Accessible through [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/266/)
 
+* Summer 2020: The Polymath REU program
+  * Remote research 
+  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in $&#8484;&radic;2''
+  * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
+  * Links to the papers: [Number Theory Sequences](https://arxiv.org/abs/2010.14932) & [Primes in $&#8484;&radic;2](https://arxiv.org/abs/2011.07386)
+
 * Summer 2019: Summer Research
   * Bowdoin College
   * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
-* Summer 2020: The Polymath REU program
-  * Remote research 
-  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes $&#8484;\sqrt{2}''
-  * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
+* Summer 2019: PCMI Mathematics Undergraduate Summer School
+  * Park city, UT 
+  * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
   
 Skills
 ======
