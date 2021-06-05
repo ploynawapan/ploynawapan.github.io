@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2021
+  * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)   
+* Ph.D in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* Fall 2020/Spring 2021: Honors thesis in mathematics
+  * Bowdoin College
+  * Project: On the Dirichlet $L$-functions and the $L$-functions of Modular Forms
+  * Supervisor: Professor Naomi Tanabe, Ph.D. 
+  * URL: https://digitalcommons.bowdoin.edu/honorsprojects/266/
 
 * Fall 2015: Research Assistant
   * Github University
