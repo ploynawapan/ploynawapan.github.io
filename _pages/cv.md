@@ -18,14 +18,21 @@ Education
 Research experience
 ======
 
-* Fall 2020/Spring 2021: Honors thesis in mathematics @ Bowdoin College
+* Fall 2020/Spring 2021: Honors thesis in mathematics 
+  * Bowdoin College
   * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
-  * URL: https://digitalcommons.bowdoin.edu/honorsprojects/266/
+  * URL: ul<https://digitalcommons.bowdoin.edu/honorsprojects/266/>
 
-* Summer 2019: Summer Research @ Bowdoin College
+* Summer 2019: Summer Research
+  * Bowdoin College
   * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
+
+* Summer 2020: The Polymath REU program
+  * Remote research 
+  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes $&#8484;\sqrt{2}''
+  * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
   
 Skills
 ======
