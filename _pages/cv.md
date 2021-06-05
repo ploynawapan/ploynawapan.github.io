@@ -64,6 +64,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+* Summer 2020: Polymath REU Teaching Assistant
+  * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
+  
+* Spring 2019: Quantitative Reasoning Tutor
+  * The Center for Learning and Teaching, Bowdoin College
+  * Tutored during Students’ of Color study night; helped with courses such as mathematical reasoning, linear algebra, and calculus.
+  
+* Mathematics Grader at Department of Mathematics, Bowdoin College
+  * Fall 2018, Spring 2019: MATH 2020 Mathematical Reasoning
+  * Fall 2019: MATH 2303 Functions of Complex Variables
+  * Fall 2019: MATH 2602 Introduction to Group Theory
+
+
+  
 Voluteer Experience
 ======
 * 2017-2019: Common Good Day, McKeen Center, Bowdoin College
