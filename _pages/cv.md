@@ -13,7 +13,9 @@ Education
 ======
 * Ph.D in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2021
-  * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)   
+  * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)
+* Study Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary
+  * ompleted with honors,  GPA: 3.92
 
 
 Research experience/ Workshop 
