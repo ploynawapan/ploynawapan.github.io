@@ -26,7 +26,7 @@ Research experience
 
 * Summer 2019: Summer Research 
   * Bowdoin College 
-  * Project: ![equation]("http://www.sciweavers.org/tex2img.php?eq=%5Cbeta%282k%2B1%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  * Project: h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   
 Skills
