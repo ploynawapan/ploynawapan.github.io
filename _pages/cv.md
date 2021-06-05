@@ -38,7 +38,7 @@ Research experience/ Workshop
 * Summer 2019: PCMI Mathematics Undergraduate Summer School
   * Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
-  
+ 
 Skills
 ======
 * Programming: 
@@ -70,6 +70,24 @@ Talks
 * Oct 2019: An Alternative Approach to Computing &beta;(2k+1) 
   * Poster presentation
   * President's Summer Research Symposium, Bowdoin College
+
+Awards and Honors 
+====== 
+
+* Spring 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College
+  * Awarded to a senior who is completing mathematics major with distinction.
+* Spring 2021: Phi Beta Kappha, Alpha of Maine Chapter, ME, USA
+* 2019 - 2021: Smyth Mathematics Prize}, Bowdoin College 
+  * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
+* 2019: Kibbe Science Fellowship, Bowdoin College, ME, USA
+  * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing  &beta;(2k+1)" in summer 2019.
+* 2017 - 2019: William Lowell Putnam Mathematical Competition, USA
+  * Ranked 933, 532.5, and 436 among over 4500 participants (2017, 2018, and 2019 respectively).
+* 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College 
+  * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
+* 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
+  * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
+
   
 Teaching
 ======
