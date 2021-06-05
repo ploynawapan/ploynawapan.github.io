@@ -26,9 +26,9 @@ Research experience/ Workshop
 
 * Summer 2020: The Polymath REU program
   * Remote research 
-  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in $&#8484;&radic;2''
+  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in &#8484;&radic;2''
   * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
-  * Links to the papers: [Number Theory Sequences](https://arxiv.org/abs/2010.14932) & [Primes in $&#8484;&radic;2](https://arxiv.org/abs/2011.07386)
+  * Links to the papers: [Number Theory Sequences](https://arxiv.org/abs/2010.14932) & [Primes in &#8484;&radic;2](https://arxiv.org/abs/2011.07386)
 
 * Summer 2019: Summer Research
   * Bowdoin College
@@ -48,11 +48,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
