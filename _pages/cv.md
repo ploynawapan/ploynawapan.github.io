@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
+* Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2021
   * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)
 * Study Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary
@@ -21,25 +21,21 @@ Education
 Research experience/ Workshop 
 ======
 
-* Fall 2020/Spring 2021: Honors thesis in mathematics 
-  * Bowdoin College
+* Fall 2020/Spring 2021: Honors thesis in mathematics at Bowdoin College
   * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * Accessible through [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/266/)
 
 * Summer 2020: The Polymath REU program
-  * Remote research 
   * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in &#8484;&radic;2''
   * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
   * Links to the papers: [Number Theory Sequences](https://arxiv.org/abs/2010.14932) & [Primes in &#8484;&radic;2](https://arxiv.org/abs/2011.07386)
 
-* Summer 2019: Summer Research
-  * Bowdoin College
+* Summer 2019: Summer Research at Bowdoin College
   * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
-* Summer 2019: PCMI Mathematics Undergraduate Summer School
-  * Park city, UT 
+* Summer 2019: PCMI Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
 
 <!--- Publications
@@ -52,16 +48,13 @@ Talks
 ======
 
 * May 2021, December 2020: On the Dirichlet L-functions and the L-functions of Modular Forms
-  * Remote research talk  
   * Honors Thesis for The Department of Mathematics, Bowdoin College
 
 * Sep 2020: Walking to Infinity Along Some Number Theory Sequences
-  * Remote research talk  
   * T. Popescu, S. Miller, S. Rasool, N. Wattanawanichkul
   * The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
   
 * Oct 2019: An Alternative Approach to Computing &beta;(2k+1) 
-  * Poster presentation
   * President's Summer Research Symposium, Bowdoin College
 
 Awards and Honors 
