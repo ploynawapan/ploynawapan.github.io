@@ -66,6 +66,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Voluteer Experience
 ======
-* Currently signed in to 43 different slack teams
+* 2017-2019: Common Good Day, McKeen Center, Bowdoin College
+  * Participated and led a group on the Bowdoin Common Good Day; distribute food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
+* Spring 2018: Hunger and Homelessness in Maine, McKeen Center, Bowdoin College
+  * Participated in Alternative Spring Break program to help distribute food and cleaned up shelters in Portland and discuss the root of hunger and homelessness.
