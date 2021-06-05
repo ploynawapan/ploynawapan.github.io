@@ -14,7 +14,7 @@ Besides math, I love painting, watching Anime, Baking, traveling, and trying new
 
 ![My cat hyhy](/images/editing-talk.png)
 
-<!---Things I have learned about everything (pretty subjective, so you may disagree) 
+<!--- Things I have learned about everything (pretty subjective, so you may disagree) 
 ======
 1. Not everyone would understand and appreciate what you are doing. I'm working in academia and interested in something very theoretical. It's always difficult to make people realize how important and interesting my work is. However, that does not make my work less worthy. 
 2. 
@@ -23,12 +23,13 @@ Besides math, I love painting, watching Anime, Baking, traveling, and trying new
 5. In your 20s, your world is still full of possibilities (and indeed it's never too late to start something new... only if you are determined enough). 
 6. The best choice is not necessarily the best fit. 
 7. People tend to say things they know well, 
-
+8. My grandma passed away shortly before I graduated from Bowdoin College. It was hard to accept that she was gone from my life when every bit of her remnants was still there in my house. She bought me a 3-dollars coloring book when I was 6, and that was all she had. There are only few people in my life that would give me all they have. What I have learned from her is that family is an important part of my life. 
 
 Books I like 
 ======
 1.
- 
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
