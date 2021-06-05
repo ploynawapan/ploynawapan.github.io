@@ -16,7 +16,8 @@ Education
   * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)
 * Study Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary
   * ompleted with honors,  GPA: 3.92
-
+  
+---
 
 Research experience/ Workshop 
 ======
@@ -38,6 +39,8 @@ Research experience/ Workshop
 * Summer 2019: **PCMI** Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
 
+---
+
 <!--- Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,6 +60,8 @@ Talks
 * Oct 2019: An Alternative Approach to Computing &beta;(2k+1) 
   * President's Summer Research Symposium, Bowdoin College
 
+---
+
 Awards and Honors 
 ====== 
 
@@ -73,6 +78,8 @@ Awards and Honors
   * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
 * 2016 - 2021: **King’s Scholarship**, Royal Thai Government, Thailand
   * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
+
+---
 
   
 Teaching
@@ -98,13 +105,14 @@ Teaching
   * Thai Scholar Summer Program, Brewster Academy
   * Worked with the program funded by the Thai Government; prepared handouts and facilitated SAT preparation class; organized activities for students.
 
-
+---
  
 Skills
 ======
 * Programming: Python, Java, C
 * Languages: Thai (Native); English (Bilingual proficiency); Japanese (Limited working proficiency)
   
+---  
   
 Voluteer Experience
 ======
