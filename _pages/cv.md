@@ -48,9 +48,6 @@ Research experience/ Workshop
   
 Talks
 ======
- <!---  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
 
 * May 2021, December 2020: On the Dirichlet L-functions and the L-functions of Modular Forms
   * Remote research talk  
@@ -85,9 +82,6 @@ Awards and Honors
   
 Teaching
 ======
- <!---  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 * Summer 2020: Polymath REU Teaching Assistant
   * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
