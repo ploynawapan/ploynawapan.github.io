@@ -57,6 +57,19 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+* May 2021, December 2020: On the Dirichlet L-functions and the L-functions of Modular Forms
+  * Remote research talk  
+  * Honors Thesis for The Department of Mathematics, Bowdoin College
+
+* Sep 2020: Walking to Infinity Along Some Number Theory Sequences
+  * Remote research talk  
+  * T. Popescu, S. Miller, S. Rasool, N. Wattanawanichkul
+  * The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
+  
+* Oct 2019: An Alternative Approach to Computing &beta;(2k+1) 
+  * Poster presentation
+  * President's Summer Research Symposium, Bowdoin College
   
 Teaching
 ======
@@ -75,6 +88,14 @@ Teaching
   * Fall 2018, Spring 2019: MATH 2020 Mathematical Reasoning
   * Fall 2019: MATH 2303 Functions of Complex Variables
   * Fall 2019: MATH 2602 Introduction to Group Theory
+
+* Winter 2018, 2019: College Application Reader, VA, USA
+  * Thai Scholar Winter Program, SIT Graduate institution
+  * Worked with the program funded by the Thai Government, facilitated Thai students through American college application system, proofread applications.
+
+* Summer 2018: Mathematics Teaching Assistant, NH, USA
+  * Thai Scholar Summer Program, Brewster Academy
+  * Worked with the program funded by the Thai Government; prepared handouts and facilitated SAT preparation class; organized activities for students.
 
 
   
