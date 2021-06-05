@@ -21,21 +21,21 @@ Education
 Research experience/ Workshop 
 ======
 
-* Fall 2020/Spring 2021: Honors thesis in mathematics at Bowdoin College
+* Fall 2020/Spring 2021: _Honors thesis_ in mathematics at Bowdoin College
   * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * Accessible through [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/266/)
 
-* Summer 2020: The Polymath REU program
+* Summer 2020: _The Polymath REU program_
   * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in &#8484;&radic;2''
   * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
   * Links to the papers: [Number Theory Sequences](https://arxiv.org/abs/2010.14932) & [Primes in &#8484;&radic;2](https://arxiv.org/abs/2011.07386)
 
-* Summer 2019: Summer Research at Bowdoin College
+* Summer 2019: _Summer Research_ at Bowdoin College
   * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
-* Summer 2019: PCMI Mathematics Undergraduate Summer School at Park city, UT 
+* Summer 2019: _PCMI Mathematics Undergraduate Summer School_ at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
 
 <!--- Publications
