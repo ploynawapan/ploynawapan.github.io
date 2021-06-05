@@ -22,7 +22,7 @@ Research experience
   * Bowdoin College
   * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
-  * URL: ul<https://digitalcommons.bowdoin.edu/honorsprojects/266/>
+  * URL: [https://digitalcommons.bowdoin.edu/honorsprojects/266/]
 
 * Summer 2019: Summer Research
   * Bowdoin College
