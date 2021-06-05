@@ -18,15 +18,13 @@ Education
 Research experience
 ======
 
-* Fall 2020/Spring 2021: Honors thesis in mathematics
-  * Bowdoin College
-  * Project: On the Dirichlet L-functions and the L-functions of Modular Forms
+* Fall 2020/Spring 2021: Honors thesis in mathematics @ Bowdoin College
+  * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * URL: https://digitalcommons.bowdoin.edu/honorsprojects/266/
 
-* Summer 2019: Summer Research 
-  * Bowdoin College 
-  * Project: h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+* Summer 2019: Summer Research @ Bowdoin College
+  * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   
 Skills
