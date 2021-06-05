@@ -20,14 +20,14 @@ Research experience
 
 * Fall 2020/Spring 2021: Honors thesis in mathematics
   * Bowdoin College
-  * Project: On the Dirichlet $L$-functions and the $L$-functions of Modular Forms
+  * Project: On the Dirichlet L-functions and the L-functions of Modular Forms
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * URL: https://digitalcommons.bowdoin.edu/honorsprojects/266/
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Summer Research 
+  * Bowdoin College 
+  * Project: ![equation]("http://www.sciweavers.org/tex2img.php?eq=%5Cbeta%282k%2B1%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  * Supervisor: Professor Naomi Tanabe, Ph.D. 
   
 Skills
 ======
