@@ -38,13 +38,6 @@ Research experience/ Workshop
 * Summer 2019: PCMI Mathematics Undergraduate Summer School
   * Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
- 
-Skills
-======
-* Programming: 
-  * Python, Java, C
-* Languages:
-  * Thai (Native); English (Bilingual proficiency); Japanese (Limited working proficiency)
 
 <!--- Publications
 ======
@@ -116,6 +109,14 @@ Teaching
   * Worked with the program funded by the Thai Government; prepared handouts and facilitated SAT preparation class; organized activities for students.
 
 
+ 
+Skills
+======
+* Programming: 
+  * Python, Java, C
+* Languages:
+  * Thai (Native); English (Bilingual proficiency); Japanese (Limited working proficiency)
+  
   
 Voluteer Experience
 ======
