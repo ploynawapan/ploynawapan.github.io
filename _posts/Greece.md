@@ -1,7 +1,7 @@
 ---
 title: 'Travel to Greece with Greek Geeks'
 date: 2020-3-15
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/Greece
 tags:
   - cool posts
   - category1
