@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, everyone. My name is Nawapan Wattanawanichkul, but I go by my nickname "Ploy." This is my personal website to collect what I have done and what I want to do in the future. I'm originally from Thailand and my family lives there. I got the King's scholarship from the Thai government in 2016, and that scholarship had supported my undergrad study at Bowdoin College in the US. Now, I'm pursing a Ph.D. in mathematics at the University of Illinois Urbana-Champaign. My interest mainly lies in number theory and combinatorics, but, well, it may change to something completely different in the future. 
 
-![My cat hyhy](/images/meow_clementine.jpg)
+(/images/meow_clementine.jpg)
 
 Besides math, I love painting, watching Anime, Baking, traveling, and trying new things! I also have a tabby cat which my family named it "Meow" (Do you know why?). Sadly, I can't bring her to the US with me, so if anyone has a cat/cats and lives in IL, please introduce your babies to me! Anyway, in this site, I will update what I am doing/TAing and upload wotksheets, papers, and etc. I also share my passion in baking and traveling here, so check it out! 
 
