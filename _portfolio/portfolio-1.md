@@ -32,7 +32,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-  <img src="/images/S9.jpeg" width="460" height="3400">
+  <img src="/images/S9.jpeg" width="460" height="340">
 </p>
 
 <p align="center">
