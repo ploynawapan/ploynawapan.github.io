@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<link rel="stylesheet" type="text/css" media="all" href="URL" />
 
 {% include base_path %}
 
