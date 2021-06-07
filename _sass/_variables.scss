@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Garamond, Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : garamond, Georgia, Times, serif;
+$sans-serif                 : "Helvetica Neue", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -91,7 +91,7 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-hover           : mix(#333, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
