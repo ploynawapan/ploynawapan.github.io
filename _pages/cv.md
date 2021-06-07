@@ -22,7 +22,7 @@ Education
 Research experience/ Workshop 
 ======
 
-* Fall 2020/Spring 2021: **Honors thesis** in mathematics at Bowdoin College
+* Fall 2020/Spring 2021: <span style="color: brown;">Honors thesis</span> in mathematics at Bowdoin College
   * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * Accessible through [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/266/)
