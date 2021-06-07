@@ -27,16 +27,16 @@ Research experience/ Workshop
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
   * Accessible through [Bowdoin Digital Commons](https://digitalcommons.bowdoin.edu/honorsprojects/266/)
 
-* Summer 2020: **The Polymath REU program**
+* Summer 2020: <span style="color: brown;">The Polymath REU program</span>
   * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in &#8484;&radic;2''
   * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
   * Links to the papers: [Number Theory Sequences](https://arxiv.org/abs/2010.14932) & [Primes in &#8484;&radic;2](https://arxiv.org/abs/2011.07386)
 
-* Summer 2019: **Summer Research** at Bowdoin College
+* Summer 2019: <span style="color: brown;">Summer Research</span> at Bowdoin College
   * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
-* Summer 2019: **PCMI** Mathematics Undergraduate Summer School at Park city, UT 
+* Summer 2019: <span style="color: brown;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
 
 ---
@@ -65,43 +65,42 @@ Talks
 Awards and Honors 
 ====== 
 
-* Spring 2021: **Edward Sanford Hammond Mathematics Prize**, Bowdoin College
+* Spring 2021: <span style="color: brown;">Edward Sanford Hammond Mathematics Prize</span>, Bowdoin College
   * Awarded to a senior who is completing mathematics major with distinction.
-* Spring 2021: **Phi Beta Kappha**, Alpha of Maine Chapter, ME, USA
-* 2019 - 2021: **Smyth Mathematics Prize**, Bowdoin College 
+* Spring 2021: <span style="color: brown;">Phi Beta Kappha</span>, Alpha of Maine Chapter, ME, USA
+* 2019 - 2021: <span style="color: brown;">Smyth Mathematics Prize</span>, Bowdoin College 
   * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
-* 2019: **Kibbe Science Fellowship**, Bowdoin College, ME, USA
+* 2019: <span style="color: brown;">Kibbe Science Fellowship</span>, Bowdoin College, ME, USA
   * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing  &beta;(2k+1)" in summer 2019.
-* 2017 - 2019: **William Lowell Putnam** Mathematical Competition, USA
+* 2017 - 2019: <span style="color: brown;">William Lowell Putnam</span> Mathematical Competition, USA
   * Ranked 933, 532.5, and 436 among over 4500 participants (2017, 2018, and 2019 respectively).
-* 2017 - 2019: **Sarah and James Bowdoin Scholar**, Bowdoin College 
+* 2017 - 2019: <span style="color: brown;">Sarah and James Bowdoin Scholar</span>, Bowdoin College 
   * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
-* 2016 - 2021: **King’s Scholarship**, Royal Thai Government, Thailand
+* 2016 - 2021: <span style="color: brown;">King’s Scholarship</span>, Royal Thai Government, Thailand
   * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
 
 ---
-
   
 Teaching
 ======
   
-* Summer 2020: **Polymath REU Teaching Assistant**
+* Summer 2020: <span style="color: brown;">Polymath REU Teaching Assistant</span>
   * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
   
-* Spring 2019: **Quantitative Reasoning Tutor**
+* Spring 2019: <span style="color: brown;">Quantitative Reasoning Tutor</span>
   * The Center for Learning and Teaching, Bowdoin College
   * Tutored during Students’ of Color study night; helped with courses such as mathematical reasoning, linear algebra, and calculus.
   
-* **Mathematics Grader** at Department of Mathematics, Bowdoin College
+* <span style="color: brown;">Mathematics Grader</span> at Department of Mathematics, Bowdoin College
   * Fall 2018, Spring 2019: MATH 2020 Mathematical Reasoning
   * Fall 2019: MATH 2303 Functions of Complex Variables
   * Fall 2019: MATH 2602 Introduction to Group Theory
 
-* Winter 2018, 2019: **College Application Reader**, VA, USA
+* Winter 2018, 2019: <span style="color: brown;">College Application Reader</span>, VA, USA
   * Thai Scholar Winter Program, SIT Graduate institution
   * Worked with the program funded by the Thai Government, facilitated Thai students through American college application system, proofread applications.
 
-* Summer 2018: **Mathematics Teaching Assistant**, NH, USA
+* Summer 2018:  <span style="color: brown;">Mathematics Teaching Assistant</span>, NH, USA
   * Thai Scholar Summer Program, Brewster Academy
   * Worked with the program funded by the Thai Government; prepared handouts and facilitated SAT preparation class; organized activities for students.
 
@@ -113,10 +112,11 @@ Skills
 * Languages: Thai (Native); English (Bilingual proficiency); Japanese (Limited working proficiency)
   
 ---  
+
   
 Voluteer Experience
 ======
-* 2017-2019: **Common Good Day**, McKeen Center, Bowdoin College
+* 2017-2019: <span style="color: brown;">Common Good Day</span>, McKeen Center, Bowdoin College
   * Participated and led a group on the Bowdoin Common Good Day; distribute food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
-* Spring 2018: **Hunger and Homelessness in Maine**, McKeen Center, Bowdoin College
+* Spring 2018: <span style="color: brown;">Hunger and Homelessness in Maine</span>, McKeen Center, Bowdoin College
   * Participated in Alternative Spring Break program to help distribute food and cleaned up shelters in Portland and discuss the root of hunger and homelessness.
