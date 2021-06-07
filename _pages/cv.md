@@ -6,13 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<link rel="stylesheet" type="text/css" media="all" href="URL" />
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
+* <span style="color: red;"> Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present </span>
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2021
   * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)
 * Study Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary
