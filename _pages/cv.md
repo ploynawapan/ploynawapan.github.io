@@ -5,12 +5,12 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
-
 @settings {
   font-family: Helvetica;
   font-size: 16pt;
 }
+---
+
 
 {% include base_path %}
 
