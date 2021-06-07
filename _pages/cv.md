@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-body{
+@settings {
   font-family: Helvetica;
   font-size: 16pt;
 }
