@@ -8,33 +8,33 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 <p align="center">
-  <img src="/images/S1.jpeg">
+  <img src="/images/S1.jpeg" width="690" height="510" >
 </p>
 
 <p align="center">
-  <img src="/images/S2.jpeg">
+  <img src="/images/S2.jpeg" width="690" height="450">
 </p>
 
 <p align="center">
-  <img src="/images/S3.jpeg">
+  <img src="/images/S3.jpeg" width="690" height="510">
 </p>
 
 <p align="center">
-  <img src="/images/S4.jpeg">
+  <img src="/images/S4.jpeg" width="450" height="690">
 </p>
 
 <p align="center">
-  <img src="/images/S7.jpeg">
+  <img src="/images/S7.jpeg" width="450" height="690">
 </p>
 
 <p align="center">
-  <img src="/images/Scan 7.jpeg">
+  <img src="/images/Scan 7.jpeg" width="450" height="690" >
 </p>
 
 <p align="center">
-  <img src="/images/S9.jpeg">
+  <img src="/images/S9.jpeg" width="690" height="510">
 </p>
 
 <p align="center">
-  <img src="/images/S10.jpeg">
+  <img src="/images/S10.jpeg" width="690" height="510">
 </p>
