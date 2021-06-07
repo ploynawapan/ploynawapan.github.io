@@ -1,6 +1,6 @@
 ---
 title: "Long Exposure and Composition"
-excerpt: This is " 1<br/><img src='/images/S1.jpeg' width='460' height='340'>"
+excerpt: This is "<br/><img src='/images/S1.jpeg' width='460' height='340'>"
 collection: portfolio
 ---
 
