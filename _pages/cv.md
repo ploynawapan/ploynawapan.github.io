@@ -16,6 +16,7 @@ Education
   * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)
 * Study Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary
   * Completed with honors,  GPA: 3.92
+
 ---
 
 Research experience/ Workshop 
