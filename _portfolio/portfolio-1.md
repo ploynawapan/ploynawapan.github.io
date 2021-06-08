@@ -5,43 +5,41 @@ date: 2019-09-01
 collection: portfolio
 ---
 
+Long Exposure 
+--- 
 
 <p align="center">
-  <img src="/images/E1.JPG" width="460" height="340" >
+  <img src="/images/E1.JPG" width="345" height="255" >
 </p>
 
 <p align="center">
-  <img src="/images/E2.JPG" width="460" height="300">
+  <img src="/images/E2.JPG" width="345" height="255">
 </p>
 
 <p align="center">
-  <img src="/images/E3.JPG" width="460" height="340">
+  <img src="/images/E3.JPG" width="345" height="255">
 </p>
 
 <p align="center">
-  <img src="/images/E4.JPG" width="460" height="340">
+  <img src="/images/E4.JPG" width="345" height="255">
+</p>
+
+Composition
+--- 
+
+<p align="center">
+  <img src="/images/E5.jpg" width="345" height="255">
 </p>
 
 <p align="center">
-  <img src="/images/E5.jpg" width="460" height="340">
+  <img src="/images/E6.JPG" width="345" height="255">
 </p>
 
 <p align="center">
-  <img src="/images/E6.JPG" width="460" height="340">
+  <img src="/images/E8.JPG" width="345" height="255">
 </p>
 
 <p align="center">
-  <img src="/images/E7.JPG" width="460" height="340">
+  <img src="/images/E9.JPG" width="345" height="255">
 </p>
 
-<p align="center">
-  <img src="/images/E8.JPG" width="460" height="340">
-</p>
-
-<p align="center">
-  <img src="/images/E9.JPG" width="460" height="340">
-</p>
-
-<p align="center">
-  <img src="/images/E10.JPG" width="460" height="340">
-</p>
