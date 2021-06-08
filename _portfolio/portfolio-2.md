@@ -1,5 +1,5 @@
 ---
-title: "Little Red Riding Hood"
+title: "A Little Red Riding Hood"
 excerpt: <img src='/images/E1.JPG' width='230' height='170' align="right" hspace="20"> This is the very first project in Photography 1 at Bowdoin College that I took in my junior undergrad. The assignment was to explore the basic techniques in photography, namely, composition and long exposure. 
 collection: portfolio
 ---
