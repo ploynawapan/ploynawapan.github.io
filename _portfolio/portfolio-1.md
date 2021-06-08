@@ -28,7 +28,7 @@ Composition
 --- 
 
 <p align="center">
-  <img src="/images/E5.jpg" width="345" height="255">
+  <img src="/images/E5.jpg" width="345" height="500">
 </p>
 
 <p align="center">
