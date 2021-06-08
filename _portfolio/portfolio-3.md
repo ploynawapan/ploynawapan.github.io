@@ -20,7 +20,7 @@ This is the final project of Photography 1. This project allowed us to create wh
 </p>
 
 <p align="center">
-  <img src="/images/S4.jpeg" width="345" height="240">
+  <img src="/images/S4.jpeg" width="345" height="460">
 </p>
 
 <p align="center">
