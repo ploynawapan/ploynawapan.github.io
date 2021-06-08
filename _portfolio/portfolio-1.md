@@ -9,19 +9,19 @@ Long Exposure
 --- 
 
 <p align="center">
-  <img src="/images/E1.JPG" width="345" height="255" >
+  <img src="/images/E1.JPG" width="345" height="240" >
 </p>
 
 <p align="center">
-  <img src="/images/E2.JPG" width="345" height="255">
+  <img src="/images/E2.JPG" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/E3.JPG" width="345" height="255">
+  <img src="/images/E3.JPG" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/E4.JPG" width="345" height="255">
+  <img src="/images/E4.JPG" width="345" height="240">
 </p>
 
 Composition
@@ -32,14 +32,14 @@ Composition
 </p>
 
 <p align="center">
-  <img src="/images/E6.JPG" width="345" height="255">
+  <img src="/images/E6.JPG" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/E8.JPG" width="345" height="255">
+  <img src="/images/E8.JPG" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/E9.JPG" width="345" height="255">
+  <img src="/images/E9.JPG" width="345" height="240">
 </p>
 
