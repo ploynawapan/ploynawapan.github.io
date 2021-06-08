@@ -1,38 +1,40 @@
 ---
 title: "Missed Calls"
-excerpt: <img src='/images/S1.jpeg' width='230' height='170' align="right" hspace="20"> This is the very first project in Photography 1 at Bowdoin College that I took in my junior undergrad. The assignment was to explore the basic techniques in photography, namely, composition and long exposure. 
+excerpt: <img src='/images/S1.jpeg' width='230' height='170' align="right" hspace="20"> This is the final project of Photography 1. This project allowed us to create what cannot be seen. I decided to create the images of mobile's ringtones. The actual project had the selected ringtones attached to each picture, but here I just want to present the photos and the techniques I incorporated.
+date: 2020-11-01
 collection: portfolio
 ---
 
+This is the final project of Photography 1. This project allowed us to create what cannot be seen. I decided to create the images of mobile's ringtones. The actual project had the selected ringtones attached to each picture, but here I just want to present the photos and the techniques I incorporated.
 
 <p align="center">
-  <img src="/images/S1.jpeg" width="460" height="340" >
+  <img src="/images/S1.jpeg" width="345" height="240" >
 </p>
 
 <p align="center">
-  <img src="/images/S2.jpeg" width="460" height="300">
+  <img src="/images/S2.jpeg" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/S3.jpeg" width="460" height="340">
+  <img src="/images/S3.jpeg" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/S4.jpeg" width="300" height="400">
+  <img src="/images/S4.jpeg" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/S7.jpeg" width="300" height="400">
+  <img src="/images/S7.jpeg" width="345" height="460">
 </p>
 
 <p align="center">
-  <img src="/images/Scan 7.jpeg" width="300" height="400" >
+  <img src="/images/Scan 7.jpeg" width="345" height="460" >
 </p>
 
 <p align="center">
-  <img src="/images/S9.jpeg" width="460" height="340">
+  <img src="/images/S9.jpeg" width="345" height="240">
 </p>
 
 <p align="center">
-  <img src="/images/Scan 10.jpeg" width="460" height="340">
+  <img src="/images/Scan 10.jpeg" width="345" height="240">
 </p>
