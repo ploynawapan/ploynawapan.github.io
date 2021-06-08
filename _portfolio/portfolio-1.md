@@ -1,10 +1,8 @@
 ---
 title: "Long Exposure and Composition"
-excerpt: This is "<br/><img src='/images/S1.jpeg' width='460' height='340'>"
+excerpt: <img src='/images/v1.png' width='230' height='170' align="right" hspace="20"> This is the very first project in Photography 1 at Bowdoin College that I took in my junior undergrad. The assignment was to explore the basic techniques in photography, namely, composition and long exposure. 
 collection: portfolio
 ---
-
-The very first project in my Photography 1 at Bowdoin College. The assignment was to explore the basic techniques in photography, namely, composition and exposure.
 
 
 <p align="center">
