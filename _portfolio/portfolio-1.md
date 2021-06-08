@@ -4,7 +4,7 @@ excerpt: This is "<br/><img src='/images/S1.jpeg' width='460' height='340'>"
 collection: portfolio
 ---
 
-The very first project in my Photography 1 at Bowdoin College. The assignment was to explore the basic techniques in photography.
+The very first project in my Photography 1 at Bowdoin College. The assignment was to explore the basic techniques in photography, namely, composition and exposure.
 
 
 <p align="center">
