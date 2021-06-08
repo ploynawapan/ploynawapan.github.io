@@ -25,3 +25,7 @@ This is the second project of Photography 1, and the theme was pretty strange. O
 <p align="center">
   <img src="/images/L5.jpg" width="345" height="240">
 </p>
+
+<p align="center">
+  <img src="/images/L6.jpg" width="345" height="240">
+</p>
