@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 *  Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2021
   * Completed with honors in mathematics, GPA: 3.93 (Magna Cum Laude)
@@ -20,7 +20,7 @@ Education
 ---
 
 Research experience/ Workshop 
-======
+------
 
 * Fall 2020/Spring 2021: <span style="color: brown;">Honors thesis</span> in mathematics at Bowdoin College
   * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
@@ -48,7 +48,7 @@ Research experience/ Workshop
   {% endfor %}</ul> -->
   
 Talks
-======
+------
 
 * May 2021, December 2020: On the Dirichlet L-functions and the L-functions of Modular Forms
   * Honors Thesis for The Department of Mathematics, Bowdoin College
@@ -63,7 +63,7 @@ Talks
 ---
 
 Awards and Honors 
-====== 
+------
 
 * Spring 2021: <span style="color: brown;">Edward Sanford Hammond Mathematics Prize</span>, Bowdoin College
   * Awarded to a senior who is completing mathematics major with distinction.
@@ -82,7 +82,7 @@ Awards and Honors
 ---
   
 Teaching
-======
+------
   
 * Summer 2020: <span style="color: brown;">Polymath REU Teaching Assistant</span>
   * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
@@ -107,7 +107,7 @@ Teaching
 ---
  
 Skills
-======
+------
 * Programming: Python, Java, C
 * Languages: Thai (Native); English (Bilingual proficiency); Japanese (Limited working proficiency)
   
@@ -115,7 +115,7 @@ Skills
 
   
 Voluteer Experience
-======
+------
 * 2017-2019: <span style="color: brown;">Common Good Day</span>, McKeen Center, Bowdoin College
   * Participated and led a group on the Bowdoin Common Good Day; distribute food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
 * Spring 2018: <span style="color: brown;">Hunger and Homelessness in Maine</span>, McKeen Center, Bowdoin College
