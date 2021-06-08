@@ -18,15 +18,15 @@ collection: portfolio
 </p>
 
 <p align="center">
-  <img src="/images/S4.jpeg" width="300" height="440">
+  <img src="/images/S4.jpeg" width="300" height="400">
 </p>
 
 <p align="center">
-  <img src="/images/S7.jpeg" width="300" height="420">
+  <img src="/images/S7.jpeg" width="300" height="400">
 </p>
 
 <p align="center">
-  <img src="/images/Scan 7.jpeg" width="300" height="420" >
+  <img src="/images/Scan 7.jpeg" width="300" height="400" >
 </p>
 
 <p align="center">
