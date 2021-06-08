@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, everyone. My name is Nawapan Wattanawanichkul, but I go by my nickname "Ploy." This is my personal website which collects what I have done and what I want to do in the future. I'm originally from Thailand and my family lives there. I got the King's scholarship from the Thai government in 2016, and that scholarship had supported my undergrad study at Bowdoin College in the US. Now, I'm pursing a Ph.D. in mathematics at the University of Illinois Urbana-Champaign. My interest mainly lies in number theory and combinatorics, but, well, it may change to something completely different in the future. 
+Hi, everyone. My name is Nawapan Wattanawanichkul, but I go by my nickname "Ploy." This is my personal website which collects what I have done, what I am doing, and what I want to do in the future. I'm originally from Thailand and my family lives there. I got the King's scholarship from the Thai government in 2016, and that scholarship had supported my undergrad study at Bowdoin College in the US. Now, I'm pursing a Ph.D. in mathematics at the University of Illinois Urbana-Champaign. My interest mainly lies in number theory and combinatorics, but, well, it may change to something completely different in the future. 
 
 ![mycat](/images/meow_clemantine.jpg)
 
