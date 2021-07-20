@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Winter Program for Thai Scholars"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Winter Program"
+permalink: /teaching/2018-12-25
+venue: "SIT Graduate Institute"
+date: 2018-12-25
+location: "Brattleboro, VT, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
