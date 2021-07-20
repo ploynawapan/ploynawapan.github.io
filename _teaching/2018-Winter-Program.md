@@ -2,7 +2,7 @@
 title: "Winter Program for Thai Scholars"
 collection: teaching
 type: "Winter Program"
-permalink: /teaching/2018-12-25
+permalink: /teaching/2018-Winter-Program
 venue: "SIT Graduate Institute"
 date: 2018-12-25
 location: "Brattleboro, VT, USA"
