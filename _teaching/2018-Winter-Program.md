@@ -1,5 +1,5 @@
 ---
-title: "Winter Program for Thai Scholars"
+title: "2019 Winter Program for Thai Scholars"
 collection: teaching
 type: "Winter Program"
 permalink: /teaching/2018-Winter-Program
