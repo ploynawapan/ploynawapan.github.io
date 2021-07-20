@@ -1,5 +1,5 @@
 ---
-title: "Brewster Summer Camp for Thai Scholars"
+title: "2018 Summer Camp for Thai Scholars"
 collection: teaching
 type: "Summer camp"
 permalink: /teaching/2018-Brewster-Summer
