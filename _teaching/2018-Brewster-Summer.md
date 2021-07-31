@@ -13,21 +13,21 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 
 <p align="center">
-  <img src="/images/ba1.png" width="345" height="270" >
+  <img src="/images/ba1.png">
 </p>
 
 
 <p align="center">
-  <img src="/images/ba2.png" width="345" height="270" >
+  <img src="/images/ba2.png">
 </p>
 
 
 <p align="center">
-  <img src="/images/ba3.png" width="345" height="270" >
+  <img src="/images/ba3.png">
 </p>
 
 <p align="center">
-  <img src="/images/ba4.png" width="345" height="270" >
+  <img src="/images/ba4.png">
 </p>
 
 
