@@ -1,7 +1,7 @@
 ---
 title: "Volunteer teacher (Kru-Ar-Sah)"
 collection: teaching
-type: "teaching program"
+type: "Teaching program"
 excerpt: <img src='/images/ch4.png' width='230' height='170' align="right" hspace="20"> My friends and I had thought a lot about poor Thai education, caused by social inequality and ignorance. We, as Thai scholars, had much better opportunities than 90% of students in Thailand. Although it was partly because of our effort, which shouldn't be disregarded, we knew that many students couldn't get proper education even if they tried as hard. Thus, one goal we had after a year in the US was that we wanted to volunteer as teachers in some rural areas to 'see' what happened in Thailand. 
 permalink: /teaching/2017-volunteer-chiangrai
 venue: "Baan Huai Hin Laad Nai, Chiang Rai, Thailand"
