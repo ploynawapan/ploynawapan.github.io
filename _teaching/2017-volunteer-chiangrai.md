@@ -22,13 +22,13 @@ We knew that our action couldn't fix the actual root of this issue, but we did b
   <img src="/images/ch3.png">
 </p>
 
-We rode a truck up the hill and got stuck from time to time because of the muddy road. When we finally arrived at the village, we were taken to the houses we would spend four nights at. The program was only five days, but we planned many things to do with the kids. We made several English games and art projects so that the kids could enjoy the subjects while gaining more knowledge. We could easily notice that they did not want to learn to get a high degree or leave the village. They just wanted to know enough so that they can survive in the Thai community down there. However, we did try our best to teach them, in case that one day they might want to go to the city and make a living there. 
+We rode a truck up the hill and got stuck from time to time because of the muddy road. When we finally arrived at the village, we were taken to the houses we would spend four nights at. The program was only five days, but we planned many things to do with the kids. We made several English games and art projects so that the kids could enjoy the subjects while gaining more knowledge. We could easily notice that they did not want to learn to get a high degree or leave the village. They just wanted to know enough so that they can survive in the Thai community down there. However, we did try our best to teach them, in case that one day they might want to go to the city and make a living there.
 
 <p align="center">
   <img src="/images/ch2.png">
 </p>
 
-While I said that we were there to teach the kids, they also taught us things we had never done before. We got to learn how to plant rice and to take care of small and annoying kids. We also got to join their celebration at night and eat some local desserts with the adults there. There were only a few TV there, so we saw people gather at a house to watch TV together every night. Their food was basic and sometimes did not have enough nutrition. While we were served rice and omelet and canned fish menus, I could imagine that they might have to eat something not as good on their normal days. I had to tell you that we paid about $20-30 for the food and housing, which sounded unfair because we went there to help them. But, well, life was even more unfair with the people up there. 
+While I said that we were there to teach the kids, they also taught us things we had never done before. We got to learn how to plant rice and to take care of small and annoying kids. We also got to join their celebration at night and eat some local desserts with the adults there. There were only a few TV there, so we saw people gather at a house to watch TV together every night. Their food was basic and sometimes did not have enough nutrition. While we were served rice and omelet and canned fish menus, I could imagine that they might have to eat something not as good on their normal days. I had to tell you that we paid about $20-30 for the food and housing, which sounded unfair because we went there to help them. But, well, life was even more unfair with the people upthere. 
 
 
 <p align="center">
