@@ -26,7 +26,7 @@ The people who arranged the winter program (or what we call "TS Christmas progra
   <img src="/images/sit3.png">
 </p>
 
-We did have other activities besides working (although the time was so limited!). Every year the staffs would prepare a show to perform on the christmas evening. 
+We did have other activities besides working (although the time was so limited!). Every year the staffs would prepare a show to perform on the christmas evening. We performed a little dance along some silly song. It was so much fun for both of the year I went to. Going to the christmas program was very special to me because I got to spend a special occasion with my beloved Thai scholars who are both friends and family to me. 
 
 <p align="center">
   <img src="/images/sit4.png">
