@@ -23,15 +23,15 @@ Research experience/ Workshop
 ------
 
 * Fall 2020/Spring 2021: <span style="color: brown;">Honors thesis</span> in mathematics at Bowdoin College
-  * Project: ''On the Dirichlet L-functions and the L-functions of Modular Forms.''
+  * Project: ''On the Dirichlet \\(L\\)-functions and the \\(L\\)-functions of Modular Forms.''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
 * Summer 2020: <span style="color: brown;">The Polymath REU program</span>
-  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in &#8484;&radic;2''
+  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in \\(\mathbb{Z}[\sqrt{2}]\\).''
   * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
 
 * Summer 2019: <span style="color: brown;">Summer Research</span> at Bowdoin College
-  * Project: ''An Alternative Approach to Computing &beta;(2k+1).''
+  * Project: ''An Alternative Approach to Computing \\(\beta(2k+1)\\).''
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
 * Summer 2019: <span style="color: brown;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
@@ -48,14 +48,14 @@ Research experience/ Workshop
 Talks
 ------
 
-* May 2021, December 2020: On the Dirichlet L-functions and the L-functions of Modular Forms
+* May 2021, December 2020: On the Dirichlet \\(L\\)-functions and the \\(L\\)-functions of Modular Forms
   * Honors Thesis for The Department of Mathematics, Bowdoin College
 
 * Sep 2020: Walking to Infinity Along Some Number Theory Sequences
   * T. Popescu, S. Miller, S. Rasool, N. Wattanawanichkul
   * The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
   
-* Oct 2019: An Alternative Approach to Computing &beta;(2k+1) 
+* Oct 2019: An Alternative Approach to Computing  \\(\beta(2k+1)\\) 
   * President's Summer Research Symposium, Bowdoin College
 
 ---
@@ -69,7 +69,7 @@ Awards and Honors
 * 2019 - 2021: <span style="color: brown;">Smyth Mathematics Prize</span>, Bowdoin College 
   * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
 * 2019: <span style="color: brown;">Kibbe Science Fellowship</span>, Bowdoin College, ME, USA
-  * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing  &beta;(2k+1)" in summer 2019.
+  * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing   \\(\beta(2k+1)\\)" in summer 2019.
 * 2017 - 2019: <span style="color: brown;">William Lowell Putnam</span> Mathematical Competition, USA
   * Ranked 933, 532.5, and 436 among over 4500 participants (2017, 2018, and 2019 respectively).
 * 2017 - 2019: <span style="color: brown;">Sarah and James Bowdoin Scholar</span>, Bowdoin College 
