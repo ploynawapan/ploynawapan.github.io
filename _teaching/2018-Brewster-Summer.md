@@ -2,7 +2,7 @@
 title: "2018 Summer Camp for Thai Scholars"
 collection: teaching
 type: "Summer camp"
-excerpt: <img src='/images/ba1.png' width='230' height='170' align="right" hspace="20"> When I first arrived in the US, all my Thai scholar friends and I had to go to a summer program in New Hampshire at Brewster Academy. There, we got to learn several English skills and survival skills, including communication, essay writing, public speaking, SAT, and also American history. The camp was meant to help us adjust to the American culture and prepare us for life in prep school. We could not be more greatful about the program. Then, for two years after in summer 2018, I went back to the program to be a TA for another Thai scholar generation, TS 61 (Thai Scholars Buddist year 2561). Quick link to [Jeopardy night](ploynawapan.github.io/files/Jeopardy.pdf) I hosted. 
+excerpt: <img src='/images/ba1.png' width='230' height='170' align="right" hspace="20"> When I first arrived in the US, all my Thai scholar friends and I had to go to a summer program in New Hampshire at Brewster Academy. There, we got to learn several English skills and survival skills, including communication, essay writing, public speaking, SAT, and also American history. The camp was meant to help us adjust to the American culture and prepare us for life in prep school. We could not be more greatful about the program. Then, for two years after in summer 2018, I went back to the program to be a TA for another Thai scholar generation, TS 61 (Thai Scholars Buddist year 2561). Quick link to {% include base_path %}[Jeopardy night](http://ploynawapan.github.io/files/Jeopardy_compressed.pdf) I hosted. 
 permalink: /teaching/2018-Brewster-Summer
 venue: "Brewster Academy, NH, USA"
 date: 2018-06-01
@@ -37,6 +37,6 @@ Whenever any TA needed to take off, all the kids would gather and give each of u
 More information:
 ------
 
-Here's some link to 
+Here's the link to the Jeopardy night I hosted: {% include base_path %}[Jeopardy night](http://ploynawapan.github.io/files/Jeopardy_compressed.pdf). Please give a credit to me and the kinds (as listed in the last slide before using! Thank you!
 
 
