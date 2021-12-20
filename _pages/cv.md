@@ -69,7 +69,7 @@ Awards and Honors
 * 2019 - 2021: <span style="color: brown;">Smyth Mathematics Prize</span>, Bowdoin College 
   * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
 * 2020: <span style="color: brown;">Bowdoin Book Award</span>, Bowdoin College 
-  * Awarded to an undergraduate who has carried a full course program and has received a grade point average of 4.0 during the last academic year.
+  * Awarded to an undergraduate who has received a grade point average of 4.0 during the last academic year.
 * 2019: <span style="color: brown;">Kibbe Science Fellowship</span>, Bowdoin College, ME, USA
   * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing   \\(\beta(2k+1)\\)" in summer 2019.
 * 2017 - 2019: <span style="color: brown;">William Lowell Putnam</span> Mathematical Competition, USA
