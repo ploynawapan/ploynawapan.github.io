@@ -27,7 +27,7 @@ Research experience/ Workshop
   * Supervisor: Professor Naomi Tanabe, Ph.D. 
 
 * Summer 2020: <span style="color: brown;">The Polymath REU program</span>
-  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Walking to Infinity On Primes in \\(\mathbb{Z}[\sqrt{2}]\\).''
+  * Projects: ''Walking to Infinity Along Some Number Theory Sequences" & "Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).''
   * Supervisor: Professor Steven J.  Miller, Ph.D., Williams College
 
 * Summer 2019: <span style="color: brown;">Summer Research</span> at Bowdoin College
