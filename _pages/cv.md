@@ -32,7 +32,7 @@ Research experience/ Workshop
 
 * Summer 2019: <span style="color: brown;">Summer Research</span> at Bowdoin College
   * Project: ''An Alternative Approach to Computing \\(\beta(2k+1)\\).''
-  * Supervisor: Professor Naomi Tanabe, Ph.D. 
+  * Supervisor: Professor Naomi Tanabe, Ph.D., Bowdoin College
 
 * Summer 2019: <span style="color: brown;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
