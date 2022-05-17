@@ -85,6 +85,7 @@ Teaching
 ------
 * <span style="color: brown;">Teaching Assistant</span>, University of Illinois Urbana-Champaign
   * Fall 2021: MATH 231 Calculus II, Integral Calculus  
+  * Spring 2022: MATH 220 Calculus, Differential Calculus
   
 * Summer 2020: <span style="color: brown;">Polymath REU Teaching Assistant</span>
   * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
