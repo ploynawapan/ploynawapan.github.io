@@ -46,7 +46,8 @@ Publications
 1. Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
      J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf)
 
-  
+---
+
 Talks
 ------
 
