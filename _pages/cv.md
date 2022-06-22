@@ -39,11 +39,13 @@ Research experience/ Workshop
 
 ---
 
-<!--- Publications
+
+Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
+1. Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
+     J. Integer Seq. 25 (2022), 21 pp.[pdf]()
+
   
 Talks
 ------
