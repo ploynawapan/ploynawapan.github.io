@@ -9,27 +9,15 @@ date: 2019-12-25
 location: "Brattleboro, VT, USA"
 ---
 
-<p align="center">
-  <img src="/images/sit1.png">
-</p>
+pdfs of the lecture notes used in class: 
 
-While I was attending Holderness school to repeat my senior high school year, I had to attend the winter program prepared for Thai scholars. I was there with all the Thai scholars in my year to write a personal statement and several other essays to apply for colleges. In 2019, two year afterward, I went to the program again but as a proofreader for the next generation kids. The work was very tedious, but it felt really good to do something for my Thai friends TS 61 (Thai scholars Buddhist year 2561). I did the job again in 2020, working with another group, TS 62. 
+* [July-1-22-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf).
 
-<p align="center">
-  <img src="/images/sit2.png">
-</p>
+pdfs of the solutions:
 
+* [July-1-22-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
 
-The people who arranged the winter program (or what we call "TS Christmas program") were Chris and Jesse. Chris did the most work during the summer, but Jesse was the leader for the winter program. They were very nice to us and still are. The picture above was Jesse and I during the Christmas eve. The program was only 10 days long for staffs like me, but longer for the kids. This is because the kids can stay as long as their winter break are. There were 3 groups of staffs at the program: the checkers, the readers, and the cooks. The checkers were those who proofread the applications; the readers were those who give suggestion on the essays the kids wrote; and the cooks would make Thai food for us! 
 
 <p align="center">
-  <img src="/images/sit3.png">
+  <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
 </p>
-
-We did have other activities besides working (although the time was so limited!). Every year the staffs would prepare a show to perform on the christmas evening. We performed a little dance along some silly song. It was so much fun for both of the year I went to. Going to the christmas program was very special to me because I got to spend a special occasion with my beloved Thai scholars who are both friends and family to me. 
-
-<p align="center">
-  <img src="/images/sit4.png">
-</p>
-
-Links to the presentation that I made: How to list [honors/awards](https://drive.google.com/file/d/1sVsCDP0ytKitZeydRZ-xPFvhKVrYbLXr/view?usp=sharing) and [activities](https://drive.google.com/file/d/1bgMDyHT-XqA90M6zHmGellevF_4O46dI/view?usp=sharing) in the Commonapp.
