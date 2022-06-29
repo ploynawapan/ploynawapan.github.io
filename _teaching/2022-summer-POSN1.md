@@ -20,6 +20,6 @@ Pdfs of the solutions:
 
 
 <p align="center">
-  <img src="/images/POSN1_ad.jpeg" width='300' height='500'>
+  <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
 </p>
 
