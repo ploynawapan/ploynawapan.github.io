@@ -3,7 +3,7 @@ title: "July 2022 Math POSN 1: ติวค่าย1สอวน. รร.เบ
 collection: teaching
 type: "Summer teaching"
 excerpt: <img src='/images/POSN1_ad.jpeg' width='150' height='270' align="right" hspace="20"> I'm very honored to be invited as a lecturer to help prepare high school students at Benchama Maharat School for the POSN 1 camp this year. Please visit this page to find the lecture notes and solutions I used in my teaching (Everything is in Thai). โจทย์ปัญหาที่ใช้ในการสอนพร้อมทั้งเฉลยอยู่ในเพจนี้นะคะ สามารถคลิกเข้าไปโหลดได้เลยค่ะ ขอขอบคุณทางหมวดคณิตศาสตร์โรงเรียนเบ็ญจะมะมหาราชที่เชิญมาให้ความรู้กับน้องๆค่ะ :)
-permalink: /teaching/2022-summer-posn1
+permalink: /teaching/2022-summer-posn
 venue: "Benchama Maharat School, Ubon Ratchatani, Thailand"
 date: 2022-07-01
 location: "Ubon Ratchathani, Thailand"
