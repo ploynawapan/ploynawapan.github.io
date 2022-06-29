@@ -10,11 +10,11 @@ location: "Ubon Ratchathani, Thailand"
 ---
 
 
-เอกสารที่ใช้ในการสอน (pdfs of the lecture notes used in class): 
+pdfs of the lecture notes used in class: 
 
 * [July-1-22-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf).
 
-เฉลยของเอกสารที่ใช้ในการสอน (pdfs of the solutions):
+pdfs of the solutions:
 
 * [July-1-22-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
 
