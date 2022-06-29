@@ -4,9 +4,9 @@ collection: teaching
 type: "Summer teaching"
 excerpt: <img src='/images/POSN1_ad.jpeg' width='150' height='270' align="right" hspace="20"> I'm very honored to be invited as a lecturer to help prepare high school students at Benchama Maharat School for the POSN 1 camp this year. Please visit this page to find the lecture notes and solutions I used in my teaching (Everything is in Thai).
 permalink: /teaching/2020-2019-Winter-Program-2
-venue: "SIT graduate, VT, USA"
-date: 2019-12-25
-location: "Brattleboro, VT, USA"
+venue: "Benchama Maharat School, Ubon Ratchatani, Thailand"
+date: 2022-07-01
+location: "Ubon Ratchathani, Thailand"
 ---
 
 pdfs of the lecture notes used in class: 
