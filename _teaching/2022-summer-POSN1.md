@@ -1,4 +1,3 @@
-
 ---
 title: "July 2022 Math POSN 1"
 collection: teaching
