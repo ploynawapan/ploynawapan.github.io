@@ -1,5 +1,5 @@
 ---
-title: "2019 & 2020 Winter Program for Thai Scholars"
+title: "July 2022 Math POSN 1"
 collection: teaching
 type: "Summer teaching"
 excerpt: <img src='/images/POSN1_ad.jpeg' width='150' height='270' align="right" hspace="20"> I'm very honored to be invited as a lecturer to help prepare high school students at Benchama Maharat School for the POSN 1 camp this year. Please visit this page to find the lecture notes and solutions I used in my teaching (Everything is in Thai).
