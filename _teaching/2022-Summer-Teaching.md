@@ -13,11 +13,12 @@ location: "Ubon Ratchathani, Thailand"
 
 เอกสารที่ใช้ในการติว/ lecture notes used in class: 
 
-* [July-1-22-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf).
+* [July-1-65-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf).
+* [July-4-65-worksheet](http://ploynawapan.github.io/files/POSN_07_04_22.pdf).
 
 เฉลย/ solutions:
 
-* [July-1-22-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
+* [July-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
 
 
 <p align="center">
