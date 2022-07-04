@@ -19,6 +19,7 @@ location: "Ubon Ratchathani, Thailand"
 เฉลย/ solutions:
 
 * [July-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
+* [July-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_04_22.pdf).
 
 
 <p align="center">
