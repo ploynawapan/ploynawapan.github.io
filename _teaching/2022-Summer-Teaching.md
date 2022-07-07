@@ -19,6 +19,8 @@ location: "Ubon Ratchathani, Thailand"
 * [July-6-65-worksheet](http://ploynawapan.github.io/files/POSN_07_06_22.pdf).
 * [July-7-65-worksheet](http://ploynawapan.github.io/files/POSN_07_07_22.pdf).
 * [July-8-65-worksheet](http://ploynawapan.github.io/files/POSN_07_08_22.pdf).
+
+
 เฉลย/ solutions:
 
 * [July-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
