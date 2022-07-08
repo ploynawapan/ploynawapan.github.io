@@ -19,8 +19,19 @@ Education
 
 ---
 
+Publications
+------
+
+1. Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
+     J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf)
+
+---
+
 Research experience/ Workshop 
 ------
+
+* Summer 2022: <span style="color: brown;">CTNT</span>, Connecticut Summer School in Number Theory 2022, Storrs, CT
+  * Topics: Algebraic number theory, Local fields, Chebotarav density theorem, Galois representation
 
 * Fall 2020/Spring 2021: <span style="color: brown;">Honors thesis</span> in mathematics at Bowdoin College
   * Project: ''On the Dirichlet \\(L\\)-functions and the \\(L\\)-functions of Modular Forms.''
@@ -36,15 +47,6 @@ Research experience/ Workshop
 
 * Summer 2019: <span style="color: brown;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
-
----
-
-
-Publications
-------
-
-1. Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
-     J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf)
 
 ---
 
@@ -86,9 +88,13 @@ Awards and Honors
   
 Teaching
 ------
+  
 * <span style="color: brown;">Teaching Assistant</span>, University of Illinois Urbana-Champaign
   * Fall 2021: MATH 231 Calculus II, Integral Calculus  
   * Spring 2022: MATH 220 Calculus, Differential Calculus
+
+* Summer 2022: <span style="color: brown;">POSN 1 Tutoring</span>, Benchama Maharat School 
+  * Invited to give mathematics lectures to prepare over 100 middle/highschool students for the first regional round towards Thailand Mathematical Olympiad.
   
 * Summer 2020: <span style="color: brown;">Polymath REU Teaching Assistant</span>
   * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
