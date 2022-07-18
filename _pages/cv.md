@@ -56,7 +56,7 @@ Talks
 * July 2022: Walking to Infinity on the Fibonacci Sequence
   * S. Miller, F. Peng, T. Popescu, N. Wattanawanichkul
   * The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo, Bosnia and Herzegovina
-  * Link to the recorded talk: (https://youtu.be/Hgxo7Wv7oc8)
+  * [Link to the recorded talk on YouTube](https://youtu.be/Hgxo7Wv7oc8)
   
 * May 2021: On the Dirichlet \\(L\\)-functions and the \\(L\\)-functions of Modular Forms
   * Honors Thesis for The Department of Mathematics, Bowdoin College
