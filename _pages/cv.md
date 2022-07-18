@@ -94,7 +94,7 @@ Awards and Honors
 Teaching
 ------
   
-* <span style="color: brown;">Teaching Assistant</span>, University of Illinois Urbana-Champaign
+* <span style="color: brown;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
   * Fall 2021: MATH 231 Calculus II, Integral Calculus  
   * Spring 2022: MATH 220 Calculus, Differential Calculus
 
@@ -108,7 +108,7 @@ Teaching
   * The Center for Learning and Teaching, Bowdoin College
   * Tutored during Students’ of Color study night; helped with courses such as mathematical reasoning, linear algebra, and calculus.
   
-* <span style="color: brown;">Mathematics Grader</span> at Department of Mathematics, Bowdoin College
+* <span style="color: brown;"> Undergraduate Mathematics Grader</span> at Department of Mathematics, Bowdoin College
   * Fall 2018, Spring 2019: MATH 2020 Mathematical Reasoning
   * Fall 2019: MATH 2303 Functions of Complex Variables
   * Fall 2019: MATH 2602 Introduction to Group Theory
