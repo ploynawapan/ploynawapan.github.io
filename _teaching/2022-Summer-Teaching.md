@@ -23,6 +23,11 @@ location: "Ubon Ratchathani, Thailand"
 * [July-12-65-worksheet](http://ploynawapan.github.io/files/POSN_07_12_22.pdf).
 * [July-25-65-worksheet](http://ploynawapan.github.io/files/POSN_07_25_22.pdf).
 * [July-26-65-worksheet](http://ploynawapan.github.io/files/POSN_07_26_22.pdf).
+* [Aug-1-65-worksheet](http://ploynawapan.github.io/files/POSN_08_01_22.pdf).
+* [Aug-2-65-worksheet](http://ploynawapan.github.io/files/POSN_08_02_22.pdf).
+* [Aug-3-65-worksheet](http://ploynawapan.github.io/files/POSN_08_03_22.pdf).
+* [Aug-4-65-worksheet](http://ploynawapan.github.io/files/POSN_08_04_22.pdf).
+* [Aug-5-65-worksheet](http://ploynawapan.github.io/files/POSN_08_05_22.pdf).
 
 
 เฉลย/ solutions:
