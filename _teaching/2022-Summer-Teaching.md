@@ -21,6 +21,8 @@ location: "Ubon Ratchathani, Thailand"
 * [July-8-65-worksheet](http://ploynawapan.github.io/files/POSN_07_08_22.pdf).
 * [July-11-65-worksheet](http://ploynawapan.github.io/files/POSN_07_11_22.pdf).
 * [July-12-65-worksheet](http://ploynawapan.github.io/files/POSN_07_12_22.pdf).
+* [July-25-65-worksheet](http://ploynawapan.github.io/files/POSN_07_25_22.pdf).
+* [July-26-65-worksheet](http://ploynawapan.github.io/files/POSN_07_26_22.pdf).
 
 
 เฉลย/ solutions:
@@ -33,6 +35,7 @@ location: "Ubon Ratchathani, Thailand"
 * [July-8-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_08_22.pdf).
 * [July-11-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_11_22.pdf).
 * [July-12-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_12_22.pdf).
+* [July-25-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_25_22.pdf).
 
 <p align="center">
   <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
