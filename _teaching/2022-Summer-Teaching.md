@@ -14,6 +14,8 @@ location: "Ubon Ratchathani, Thailand"
 
 เอกสารที่ใช้ในการติว/ lecture notes used in class: 
 
+<img style="float: right;" src="/images/POSN1_ad.jpeg" width='400' height='560'>
+
 * [July-1-65-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf).
 * [July-4-65-worksheet](http://ploynawapan.github.io/files/POSN_07_04_22.pdf).
 * [July-5-65-worksheet](http://ploynawapan.github.io/files/POSN_07_05_22.pdf).
@@ -49,8 +51,5 @@ location: "Ubon Ratchathani, Thailand"
 * [Aug-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_04_22.pdf).
 * [Aug-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_05_22.pdf).
 
-<p align="center">
-  <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
-</p>
 
 
