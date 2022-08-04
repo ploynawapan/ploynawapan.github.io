@@ -12,7 +12,6 @@ location: "Ubon Ratchathani, Thailand"
 เอกสารและเฉลยเรียงตามวันที่ตั้งแต่วันที่เริ่มสอนนะคะ ไฟล์เป็น pdf ค่ะ 
 
 
-<div align="center">
 
 |เอกสารที่ใช้ในการติว/ lecture notes used in class | เฉลย/ solutions |
 | ---------------------- | ---------------------- |
@@ -32,7 +31,6 @@ location: "Ubon Ratchathani, Thailand"
 | [Aug-4-65-worksheet](http://ploynawapan.github.io/files/POSN_08_04_22.pdf)| [Aug-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_04_22.pdf)|
 | [Aug-5-65-worksheet](http://ploynawapan.github.io/files/POSN_08_05_22.pdf)| [Aug-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_05_22.pdf)|
 
- </div>
 
 <p align="center">
   <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
