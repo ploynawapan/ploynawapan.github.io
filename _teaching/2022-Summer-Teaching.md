@@ -52,7 +52,7 @@ location: "Ubon Ratchathani, Thailand"
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| [July-1-65-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf)      | Title       |
 | Paragraph   | Text        |
 
 <p align="center">
