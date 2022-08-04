@@ -50,3 +50,12 @@ location: "Ubon Ratchathani, Thailand"
 <p align="center">
   <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
 </p>
+
+<!-- TABLE_GENERATE_START -->
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+<!-- TABLE_GENERATE_END -->
