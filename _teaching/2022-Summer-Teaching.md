@@ -45,7 +45,8 @@ location: "Ubon Ratchathani, Thailand"
 * [Aug-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_01_22.pdf).
 * [Aug-2-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_02_22.pdf).
 * [Aug-3-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_03_22.pdf).
-
+* [Aug-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_04_22.pdf).
+* [Aug-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_05_22.pdf).
 <p align="center">
   <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
 </p>
