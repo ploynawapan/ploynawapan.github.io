@@ -50,6 +50,11 @@ location: "Ubon Ratchathani, Thailand"
 * [Aug-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_05_22.pdf).
 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 <p align="center">
   <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
 </p>
