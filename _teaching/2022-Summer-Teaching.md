@@ -11,51 +11,30 @@ location: "Ubon Ratchathani, Thailand"
 
 เอกสารและเฉลยเรียงตามวันที่ตั้งแต่วันที่เริ่มสอนนะคะ ไฟล์เป็น pdf ค่ะ 
 
-เอกสารที่ใช้ในการติว/ lecture notes used in class: 
 
-* [July-1-65-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf).
-* [July-4-65-worksheet](http://ploynawapan.github.io/files/POSN_07_04_22.pdf).
-* [July-5-65-worksheet](http://ploynawapan.github.io/files/POSN_07_05_22.pdf).
-* [July-6-65-worksheet](http://ploynawapan.github.io/files/POSN_07_06_22.pdf).
-* [July-7-65-worksheet](http://ploynawapan.github.io/files/POSN_07_07_22.pdf).
-* [July-8-65-worksheet](http://ploynawapan.github.io/files/POSN_07_08_22.pdf).
-* [July-11-65-worksheet](http://ploynawapan.github.io/files/POSN_07_11_22.pdf).
-* [July-12-65-worksheet](http://ploynawapan.github.io/files/POSN_07_12_22.pdf).
-* [July-25-65-worksheet](http://ploynawapan.github.io/files/POSN_07_25_22.pdf).
-* [July-26-65-worksheet](http://ploynawapan.github.io/files/POSN_07_26_22.pdf).
-* [Aug-1-65-worksheet](http://ploynawapan.github.io/files/POSN_08_01_22.pdf).
-* [Aug-2-65-worksheet](http://ploynawapan.github.io/files/POSN_08_02_22.pdf).
-* [Aug-3-65-worksheet](http://ploynawapan.github.io/files/POSN_08_03_22.pdf).
-* [Aug-4-65-worksheet](http://ploynawapan.github.io/files/POSN_08_04_22.pdf).
-* [Aug-5-65-worksheet](http://ploynawapan.github.io/files/POSN_08_05_22.pdf).
+<!-- TABLE_GENERATE_START -->
 
+|เอกสารที่ใช้ในการติว/ lecture notes used in class | เฉลย/ solutions |
+| ---------------------- | ---------------------- |
+| [July-1-65-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf)  | [July-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf) |
+| [July-4-65-worksheet](http://ploynawapan.github.io/files/POSN_07_04_22.pdf)  | [July-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_04_22.pdf) |
+| [July-5-65-worksheet](http://ploynawapan.github.io/files/POSN_07_05_22.pdf)| [July-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_05_22.pdf)|
+| [July-6-65-worksheet](http://ploynawapan.github.io/files/POSN_07_06_22.pdf)| [July-6-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_06_22.pdf) |
+| [July-7-65-worksheet](http://ploynawapan.github.io/files/POSN_07_07_22.pdf)| [July-7-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_07_22.pdf)|
+| [July-8-65-worksheet](http://ploynawapan.github.io/files/POSN_07_08_22.pdf)|[July-8-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_08_22.pdf) |
+| [July-11-65-worksheet](http://ploynawapan.github.io/files/POSN_07_11_22.pdf)| [July-11-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_11_22.pdf)|
+| [July-12-65-worksheet](http://ploynawapan.github.io/files/POSN_07_12_22.pdf)| [July-12-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_12_22.pdf) |
+| [July-25-65-worksheet](http://ploynawapan.github.io/files/POSN_07_25_22.pdf)| [July-25-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_25_22.pdf)|
+| [July-26-65-worksheet](http://ploynawapan.github.io/files/POSN_07_26_22.pdf)| [July-26-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_26_22.pdf)|
+| [Aug-1-65-worksheet](http://ploynawapan.github.io/files/POSN_08_01_22.pdf)| [Aug-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_01_22.pdf)|
+| [Aug-2-65-worksheet](http://ploynawapan.github.io/files/POSN_08_02_22.pdf)| [Aug-2-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_02_22.pdf)|
+| [Aug-3-65-worksheet](http://ploynawapan.github.io/files/POSN_08_03_22.pdf)| [Aug-3-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_03_22.pdf)|
+| [Aug-4-65-worksheet](http://ploynawapan.github.io/files/POSN_08_04_22.pdf)| [Aug-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_04_22.pdf)|
+| [Aug-5-65-worksheet](http://ploynawapan.github.io/files/POSN_08_05_22.pdf)| [Aug-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_05_22.pdf)|
+<!-- TABLE_GENERATE_END -->
 
-เฉลย/ solutions:
-
-* [July-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf).
-* [July-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_04_22.pdf).
-* [July-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_05_22.pdf).
-* [July-6-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_06_22.pdf).
-* [July-7-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_07_22.pdf).
-* [July-8-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_08_22.pdf).
-* [July-11-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_11_22.pdf).
-* [July-12-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_12_22.pdf).
-* [July-25-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_25_22.pdf).
-* [July-26-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_26_22.pdf).
-* [Aug-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_01_22.pdf).
-* [Aug-2-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_02_22.pdf).
-* [Aug-3-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_03_22.pdf).
-* [Aug-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_04_22.pdf).
-* [Aug-5-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_08_05_22.pdf).
 <p align="center">
   <img src="/images/POSN1_ad.jpeg" width='500' height='700'>
 </p>
 
-<!-- TABLE_GENERATE_START -->
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-<!-- TABLE_GENERATE_END -->
