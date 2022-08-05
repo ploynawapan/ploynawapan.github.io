@@ -12,7 +12,7 @@ location: "Ubon Ratchathani, Thailand"
 เอกสารและเฉลยเรียงตามวันที่ตั้งแต่วันที่ 1 กรกฎาคม 2565 ถึง 5 สิงหาคม 2565 ไฟล์เป็น pdf ค่ะ 
 
 
-|   เอกสาร/ lecture notes   | เฉลย/ solutions |
+|   เอกสาร/ worksheets   | เฉลย/ solutions |
 | ----------- | ----------- |
 | [July-1-65-worksheet](http://ploynawapan.github.io/files/POSN_07_01_22.pdf)  | [July-1-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_01_22.pdf)  |
 | [July-4-65-worksheet](http://ploynawapan.github.io/files/POSN_07_04_22.pdf)  | [July-4-65-solutions](http://ploynawapan.github.io/files/Sol_POSN_07_04_22.pdf)  |
