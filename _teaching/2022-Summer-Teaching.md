@@ -16,7 +16,7 @@ Here are some photos of my students and me in class. My class was from 7:30 - 8:
   <img src="/images/POSN2.png">
 </p>
 
-The followings are all of the worksheets and solutions that I used. เอกสารและเฉลยเรียงตามวันที่ตั้งแต่วันที่ 1 กรกฎาคม 2565 ถึง 5 สิงหาคม 2565 ไฟล์เป็น pdf ค่ะ 
+The following are all of the worksheets and solutions that I used to accompany my class. เอกสารและเฉลยเรียงตามวันที่ตั้งแต่วันที่ 1 กรกฎาคม 2565 ถึง 5 สิงหาคม 2565 ไฟล์เป็น pdf ค่ะ 
 
 
 |   เอกสาร/ worksheets   | เฉลย/ solutions |
