@@ -74,7 +74,7 @@ Awards and Honors
 
 * Spring 2021: <span style="color: brown;">Edward Sanford Hammond Mathematics Prize</span>, Bowdoin College
   * Awarded to a senior who is completing mathematics major with distinction.
-* Spring 2021: <span style="color: brown;">Phi Beta Kappha</span>, Alpha of Maine Chapter, ME, USA
+* Spring 2021: <span style="color: brown;">Phi Beta Kappa</span>, Alpha of Maine Chapter, ME, USA
 * 2019 - 2021: <span style="color: brown;">Smyth Mathematics Prize</span>, Bowdoin College 
   * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
 * 2020: <span style="color: brown;">Bowdoin Book Award</span>, Bowdoin College 
