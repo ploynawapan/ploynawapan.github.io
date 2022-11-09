@@ -134,6 +134,6 @@ Skills
 Voluteer Experience
 ------
 * 2017-2019: <span style="color: brown;">Common Good Day</span>, McKeen Center, Bowdoin College
-  * Participated and led a group on the Bowdoin Common Good Day; distribute food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
+  * Participated and led a group on the Bowdoin Common Good Day; distributed food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
 * Spring 2018: <span style="color: brown;">Hunger and Homelessness in Maine</span>, McKeen Center, Bowdoin College
-  * Participated in Alternative Spring Break program to help distribute food and cleaned up shelters in Portland and discuss the root of hunger and homelessness.
+  * Participated in Alternative Spring Break program to help distribute food and clean up shelters in Portland and discuss the root of hunger and homelessness.
