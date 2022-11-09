@@ -12,7 +12,7 @@ Hi, everyone! My name is Nawapan Wattanawanichkul, but I go by my nickname "Ploy
 
 ![mycat](/images/meow_clemantine.jpg)
 
-Besides math, I love painting, watching Anime, Baking, traveling, and trying new things! I also have a tabby cat which my family named it "Meow" (Do you know why?). Sadly, I can't bring her to the US with me, so if anyone has a cat/cats and lives in IL, please introduce your babies to me! Anyway, on this site, I will update what I am doing/TAing and upload worksheets, papers, etc. Check them out! 
+Besides math, I love painting, watching Anime, Baking, traveling, and trying new things! I also have a tabby cat which my family named it "Meow" (Do you know why?). Sadly, I can't bring her to the US with me, so if anyone has a cat/cats and lives in Champaign, please introduce your babies to me! Anyway, on this site, I will update what I am doing/TAing and upload worksheets, papers, etc. Check them out! 
 
 
 
