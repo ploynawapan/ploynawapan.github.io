@@ -94,9 +94,10 @@ Teaching
 ------
   
 * <span style="color: brown;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
-  * Fall 2021: MATH 231 Calculus II, Integral Calculus  
-  * Spring 2022: MATH 220 Calculus I, Differential Calculus
+  * Spring 2023: MATH 220 Calculus I, Differential Calculus 
   * Fall 2022: MATH 220 Calculus I, Differential Calculus
+  * Spring 2022: MATH 220 Calculus I, Differential Calculus
+  * Fall 2021: MATH 231 Calculus II, Integral Calculus  
 
 * Summer 2022: <span style="color: brown;">POSN 1 Tutoring</span>, Benchama Maharat School 
   * Invited to give mathematics lectures to prepare over 100 middle/highschool students for the first regional round towards Thailand Mathematical Olympiad.
