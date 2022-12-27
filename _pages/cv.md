@@ -24,7 +24,8 @@ Publications
 ------
 
 1. Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
-     J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf)
+     J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf) & [link to journal's site](https://cs.uwaterloo.ca/journals/JIS/vol25.html) 
+2. Walking to infinity on the Fibonacci sequence. (with S. Miller, F. Peng, T. Popescu) Fibonacci Quart. 60 (2022), no. 5, pp. 293-299. [link to journal's site](https://www.fq.math.ca/60-5.html) 
 
 ---
 
