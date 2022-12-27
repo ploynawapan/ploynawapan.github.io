@@ -132,7 +132,7 @@ Skills
 ---  
 
   
-Voluteer Experience
+Voluteer Experiences
 ------
 * 2017-2019: <span style="color: brown;">Common Good Day</span>, McKeen Center, Bowdoin College
   * Participated and led a group on the Bowdoin Common Good Day; distributed food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
