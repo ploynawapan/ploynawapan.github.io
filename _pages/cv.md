@@ -83,8 +83,8 @@ Awards and Honors
   * Awarded to an undergraduate who has received a grade point average of 4.0 during the last academic year.
 * 2019: <span style="color: brown;">Kibbe Science Fellowship</span>, Bowdoin College, ME, USA
   * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing   \\(\beta(2k+1)\\)" in summer 2019.
-* 2017 - 2019: <span style="color: brown;">William Lowell Putnam</span> Mathematical Competition, USA
-  * Ranked 933, 532.5, and 436 among over 4500 participants (2017, 2018, and 2019 respectively).
+<!--* 2017 - 2019: <span style="color: brown;">William Lowell Putnam</span> Mathematical Competition, USA
+  * Ranked 933, 532.5, and 436 among over 4500 participants (2017, 2018, and 2019 respectively).-->
 * 2017 - 2019: <span style="color: brown;">Sarah and James Bowdoin Scholar</span>, Bowdoin College 
   * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
 * 2016 - 2021: <span style="color: brown;">King’s Scholarship</span>, Royal Thai Government, Thailand
