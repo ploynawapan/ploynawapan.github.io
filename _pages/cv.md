@@ -139,5 +139,3 @@ Voluteer Experiences
   * Participated and led a group on the Bowdoin Common Good Day; distributed food at Brunswick's Mid Coast Hunger Prevention Program; cleaned up Portland's Ronald McDonald house and Grow to Give farm.
 * Spring 2018: <span style="color: brown;">Hunger and Homelessness in Maine</span>, McKeen Center, Bowdoin College
   * Participated in Alternative Spring Break program to help distribute food and clean up shelters in Portland and discuss the root of hunger and homelessness.
-<!--* 2017 - 2019: <span style="color: brown;">William Lowell Putnam</span> Mathematical Competition, USA
-  * Ranked 933, 532.5, and 436 among over 4500 participants (2017, 2018, and 2019 respectively).-->
