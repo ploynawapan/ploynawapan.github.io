@@ -12,7 +12,7 @@ Publications & preprints
 3. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$.  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
 J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf) & [link to journal's site.](https://cs.uwaterloo.ca/journals/JIS/vol25.html)
 4. Walking to Infinity Along Some Number Theory Sequences. (With Steven J. Miller, Fei Peng, Tudor Popescu, and the Polymath REU program) arXiv preprint, arXiv:2010.14932. [link to arXiv.](https://arxiv.org/abs/2010.14932)
-   
+------ 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
