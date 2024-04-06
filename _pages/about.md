@@ -12,7 +12,7 @@ Hello, everyone! I'm Nawapan Wattanawanichkul, but you can call me "Ploy". Origi
 
 Outside of my academic pursuits, I have a passion for painting, baking, traveling, and exploring new activities. On this platform, I'll be regularly sharing updates such as new papers, lecture notes, and memorable experiences, so be sure to stay tuned!
 
-![mycat](/images/meow_clemantine.jpg)
+
 
 
 
