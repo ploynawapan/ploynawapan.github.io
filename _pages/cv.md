@@ -38,7 +38,7 @@ Talks
 * Mar 2024 & Nov 2023: UIUC Graduate Number Theory Seminar, UIUC, IL, USA
   * _Introduction to Holomorphic quantum unique ergodicity_
 
-* Jul 2022: The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo, Bosnia and Herzegovina. 
+* Jul 2022: The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo 
   * _Walking to Infinity on the Fibonacci Sequence_ (Remote)
   
 * May 2021: Honors Thesis for The Department of Mathematics, Bowdoin College, ME, USA
