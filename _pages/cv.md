@@ -32,24 +32,22 @@ J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/mille
 
 Talks
 ------
-* Mar 2024: Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions
+* Mar 2024: Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions, IL, USA
   * UIUC Number Theory Seminar, Department of Mathematics, UIUC
 
-* Mar 2024, Nov 2023: Introduction to Holomorphic quantum unique ergodicity
+* Mar 2024, Nov 2023: Introduction to Holomorphic quantum unique ergodicity, IL, USA
   * UIUC Graduate Number Theory Seminar, UIUC
 
-* Jul 2022: Walking to Infinity on the Fibonacci Sequence
-  * S. Miller, F. Peng, T. Popescu, N. Wattanawanichkul
+* Jul 2022: Walking to Infinity on the Fibonacci Sequence, Remote
   * The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo, Bosnia and Herzegovina. 
   
-* May 2021: On the Dirichlet $L$-functions and the $L$-functions of Modular Forms
+* May 2021: On the Dirichlet $L$-functions and the $L$-functions of Modular Forms, Remote
   * Honors Thesis for The Department of Mathematics, Bowdoin College
 
-* Sep 2020: Walking to Infinity Along Some Number Theory Sequences
-  * T. Popescu, S. Miller, S. Rasool, N. Wattanawanichkul
+* Sep 2020: Walking to Infinity Along Some Number Theory Sequences, Remote
   * The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
   
-* Oct 2019: An Alternative Approach to Computing  $\beta(2k+1)$ 
+* Oct 2019: An Alternative Approach to Computing  $\beta(2k+1)$, ME, USA
   * President's Summer Research Symposium, Bowdoin College
     
 ---
