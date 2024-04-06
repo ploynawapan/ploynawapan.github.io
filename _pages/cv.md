@@ -77,28 +77,24 @@ Teaching
   
 $*$ = ranked as an excellent teacher by students.
 
-* Summer 2022, 2017, 2016: <span style="color: brown;">POSN 1 Tutoring</span>, Benchama Maharat School 
+* Summer 2022, 2017, 2016: <span style="color: brown;">Invited Speaker</span>, Benchama Maharat School 
   * Invited to give mathematics lectures to prepare over 200 middle/highschool students for the first regional round towards Thailand Mathematical Olympiad.
   
 * Summer 2020: <span style="color: brown;">Polymath REU Teaching Assistant</span>
   * Organized weekly activities and logistics; coordinated with the mentor; guided students throughout the project.
   
-* Spring 2019: <span style="color: brown;">Quantitative Reasoning Tutor</span>
-  * The Center for Learning and Teaching, Bowdoin College
+* 2018-2019: <span style="color: brown;">Quantitative Reasoning Tutor & Undergraduate Mathematics Grader</span>, Bowdoin College
   * Tutored during Students’ of Color study night; helped with courses such as mathematical reasoning, linear algebra, and calculus.
-  
-* <span style="color: brown;"> Undergraduate Mathematics Grader</span> at Department of Mathematics, Bowdoin College
-  * Fall 2018, Spring 2019: MATH 2020 Mathematical Reasoning
-  * Fall 2019: MATH 2303 Functions of Complex Variables
-  * Fall 2019: MATH 2602 Introduction to Group Theory
+  * <span style="color: brown;"> Undergraduate Mathematics Grader</span> for the following courses:
+    * Fall 2018, Spring 2019: MATH 2020 Mathematical Reasoning
+    * Fall 2019: MATH 2303 Functions of Complex Variables
+    * Fall 2019: MATH 2602 Introduction to Group Theory
 
-* Winter 2018, 2019: <span style="color: brown;">College Application Reader</span>, VA, USA
-  * Thai Scholar Winter Program, SIT Graduate institution
-  * Worked with a program funded by the Thai Government, facilitated Thai students through American college application system, proofread applications.
+* Winter 2018, 2019: <span style="color: brown;">College Application Reader</span>, SIT Graduate institution, VA, USA
+  * Worked with a program funded by the Thai Government, facilitated Thai students through American college application system.
 
-* Summer 2018:  <span style="color: brown;">Mathematics Teaching Assistant</span>, NH, USA
-  * Thai Scholar Summer Program, Brewster Academy
-  * Worked with a program funded by the Thai Government; prepared handouts and facilitated SAT preparation class; organized activities for students.
+* Summer 2018:  <span style="color: brown;">Mathematics Teaching Assistant</span>,Brewster Academy, NH, USA
+  * Worked with a program funded by the Thai Government; facilitated SAT preparation class; organized activities for students.
 
 ---
 
