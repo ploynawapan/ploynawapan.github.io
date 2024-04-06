@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome, everyone!"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, everyone! My name is Nawapan Wattanawanichkul, but I go by my nickname "Ploy." This is my personal website which collects what I have done, what I am doing, and what I want to do in the future. I'm originally from Thailand and my family lives there. I got the King's scholarship from the Thai government in 2016, and that scholarship had supported my undergrad study at Bowdoin College in the US. Now, I'm pursing a Ph.D. in mathematics at the University of Illinois Urbana-Champaign. My interest mainly lies in number theory and combinatorics, but, well, it may change to something completely different in the future. 
+Hello, everyone! I'm Nawapan Wattanawanichkul, but you can call me "Ploy". Originally from Ubon Ratchatani, Thailand, I received the King's scholarship from the Thai government in 2016, which allowed me to pursue my undergraduate studies at Bowdoin College in the United States. Currently, I am working towards a Ph.D. in mathematics at the University of Illinois Urbana-Champaign, with a primary focus on analytic number theory, particularly $L$-functions.
+
+Outside of my academic pursuits, I have a passion for painting, baking, traveling, and exploring new activities. On this platform, I'll be regularly sharing updates such as new papers, lecture notes, and memorable experiences, so be sure to stay tuned!
 
 ![mycat](/images/meow_clemantine.jpg)
-
-Besides math, I love painting, watching Anime, Baking, traveling, and trying new things! I also have a tabby cat which my family named it "Meow" (Do you know why?). Sadly, I can't bring her to the US with me, so if anyone has a cat/cats and lives in Champaign, please introduce your babies to me! Anyway, on this site, I will update what I am doing/TAing and upload worksheets, papers, etc. Check them out! 
 
 
 
