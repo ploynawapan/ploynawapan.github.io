@@ -11,9 +11,4 @@ main:
 
   - title: "Personal"
     url: /personal/
-    
-  - title: "Arts"
-    url: /portfolio/
-        
-  - title: "Travels"
-    url: /year-archive/
+  
