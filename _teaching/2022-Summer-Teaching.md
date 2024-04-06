@@ -2,7 +2,7 @@
 title: "July 2022 Invited Speaker at Benchama Maharat School"
 collection: teaching
 type: "Summer teaching"
-excerpt: <img src='/images/POSN1.JPG' width='230' height='170' align="right" hspace="20"> I'm very honored to be invited as a lecturer to help prepare high school students at Benchama Maharat School for the POSN 1 camp this year. For those who don't know, POSN 1 is the very first regional round which leads towards the International Mathematical Olympiad. Please visit this page to find the lecture notes and solutions I used in my teaching (Note: Every lecture note is in Thai). 
+excerpt: <img src='/images/POSN1.JPG' width='230' height='170' align="right" hspace="20"> I'm very honored to be invited as a lecturer to help prepare high school students at Benchama Maharat School for the POSN 1 camp this year. For those who don't know, POSN 1 is the very first regional round which leads towards the International Mathematical Olympiad. Please visit this page to find the lecture notes and solutions I used in my teaching (Note-- Every lecture note is in Thai). 
 permalink: /teaching/2022-Summer-Teaching
 venue: "Benchama Maharat School, Ubon Ratchatani, Thailand"
 date: 2022-06-29
