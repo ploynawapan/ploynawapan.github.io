@@ -21,9 +21,9 @@ Education
 
 Publications & preprints
 ------
-1. An Alternative Approach to Computing \\(\beta(2k + 1)\\). (With N. Tanabe) Integers 23 (2023). [pdf](http://math.colgate.edu/~integers/x72/x72.pdf) & [link to journal's site.](http://math.colgate.edu/~integers/vol23.html)
+1. An Alternative Approach to Computing $\beta(2k + 1)$. (With N. Tanabe) Integers 23 (2023). [pdf](http://math.colgate.edu/~integers/x72/x72.pdf) & [link to journal's site.](http://math.colgate.edu/~integers/vol23.html)
 2. Walking to Infinity on the Fibonacci Sequence. (With S. Miller, F. Peng, T. Popescu) Fibonacci Quart. 60 (2022), no. 5, pp. 293-299. [pdf](https://www.fq.math.ca/Papers1/60-5/miller2.pdf) & [link to journal's site.](https://www.fq.math.ca/60-5.html) 
-3. Modeling Random Walks to Infinity on Primes in \\(\mathbb{Z}[\sqrt{2}]\\).  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
+3. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$.  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
 J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf) & [link to journal's site.](https://cs.uwaterloo.ca/journals/JIS/vol25.html)
 4. Walking to Infinity Along Some Number Theory Sequences. (With Steven J. Miller, Fei Peng, Tudor Popescu, and the Polymath REU program) arXiv preprint, arXiv:2010.14932. [link to arXiv.](https://arxiv.org/abs/2010.14932)
 ---
@@ -40,14 +40,14 @@ Talks
   * S. Miller, F. Peng, T. Popescu, N. Wattanawanichkul
   * The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo, Bosnia and Herzegovina. 
   
-* May 2021: On the Dirichlet \\(L\\)-functions and the \\(L\\)-functions of Modular Forms
+* May 2021: On the Dirichlet $L$-functions and the $L$-functions of Modular Forms
   * Honors Thesis for The Department of Mathematics, Bowdoin College
 
 * Sep 2020: Walking to Infinity Along Some Number Theory Sequences
   * T. Popescu, S. Miller, S. Rasool, N. Wattanawanichkul
   * The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
   
-* Oct 2019: An Alternative Approach to Computing  \\(\beta(2k+1)\\) 
+* Oct 2019: An Alternative Approach to Computing  $\beta(2k+1)$ 
   * President's Summer Research Symposium, Bowdoin College
 ---
 
@@ -68,13 +68,13 @@ Teaching
   
 * <span style="color: brown;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
   * Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA)
-  * Fall 2023: MATH 221 Calculus I, Differential Calculus\\(*\\)
-  * Spring 2023: MATH 220 Calculus, Differential Calculus (Head TA)\\(*\\) 
-  * Fall 2022: MATH 220 Calculus, Differential Calculus\\(*\\)
-  * Spring 2022: MATH 220 Calculus, Differential Calculus\\(*\\)
+  * Fall 2023: MATH 221 Calculus I, Differential Calculus$*$
+  * Spring 2023: MATH 220 Calculus, Differential Calculus (Head TA)$*$
+  * Fall 2022: MATH 220 Calculus, Differential Calculus$*$
+  * Spring 2022: MATH 220 Calculus, Differential Calculus$*$
   * Fall 2021: MATH 231 Calculus II, Integral Calculus
   
-\\(*\\) = ranked as an excellent teacher by students.
+$*$ = ranked as an excellent teacher by students.
 
 * Summer 2022, 2017, 2016: <span style="color: brown;">POSN 1 Tutoring</span>, Benchama Maharat School 
   * Invited to give mathematics lectures to prepare over 200 middle/highschool students for the first regional round towards Thailand Mathematical Olympiad.
