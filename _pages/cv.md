@@ -16,7 +16,8 @@ Education
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2017-2021
   * Completed with honors in mathematics, Magna Cum Laude <!--GPA: 3.93 --> 
 * Study Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary, Spring 2020
-  * Completed with honors  <!--GPA: 3.92 --> 
+  * Completed with honors  <!--GPA: 3.92 -->
+    
 ---
 
 Publications & preprints
@@ -26,6 +27,7 @@ Publications & preprints
 3. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$.  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
 J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/miller11.pdf) & [link to journal's site.](https://cs.uwaterloo.ca/journals/JIS/vol25.html)
 4. Walking to Infinity Along Some Number Theory Sequences. (With Steven J. Miller, Fei Peng, Tudor Popescu, and the Polymath REU program) arXiv preprint, arXiv:2010.14932. [link to arXiv.](https://arxiv.org/abs/2010.14932)
+   
 ---
 
 Talks
@@ -49,6 +51,7 @@ Talks
   
 * Oct 2019: An Alternative Approach to Computing  $\beta(2k+1)$ 
   * President's Summer Research Symposium, Bowdoin College
+    
 ---
 
 <!--* Fall 2020/Spring 2021: <span style="color: brown;">Honors thesis</span> in mathematics at Bowdoin College
@@ -116,6 +119,7 @@ Awards and Honors
   * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
 * 2016 - 2021: <span style="color: brown;">King’s Scholarship</span>, Royal Thai Government, Thailand
   * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
+    
 ---
 
 Workshops
@@ -124,6 +128,7 @@ Workshops
   * Topics: Algebraic number theory, Local fields, Chebotarav density theorem, Galois representation
 * Summer 2019: <span style="color: brown;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
+    
 ---
 
 
