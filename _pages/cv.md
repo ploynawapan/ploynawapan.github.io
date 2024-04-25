@@ -32,6 +32,7 @@ J. Integer Seq. 25 (2022), 21 pp. [pdf](http://ploynawapan.github.io/files/mille
 
 Talks
 ------
+* April 2024: Stanford Student Number Theory Seminar, Department of Mathematics, Stanford University, CA, USA
 * Mar 2024: UIUC Number Theory Seminar, Department of Mathematics, UIUC, IL, USA
   * _Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_
     
