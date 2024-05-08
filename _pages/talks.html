@@ -16,6 +16,9 @@ author_profile: true
 <body>
     <ol>
         <li>
+            <p>Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. <br>  (With an appendix by Jesse Thorner) </p>
+        </li>
+        <li>
             <p>An Alternative Approach to Computing $\beta(2k + 1)$. (With N. Tanabe) <br> Integers 23 (2023). <a href="http://math.colgate.edu/~integers/x72/x72.pdf">pdf</a> & <a href="http://math.colgate.edu/~integers/vol23.html">link to journal's site.</a></p>
         </li>
         <li>
@@ -41,6 +44,9 @@ author_profile: true
     <h2>Research highlights</h2>
     <hr>
 </html>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 {% if site.talkmap_link == true %}
 
@@ -48,6 +54,4 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+
