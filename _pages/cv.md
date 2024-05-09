@@ -44,7 +44,7 @@ Talks
 * Jul 2022: The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo 
   * _Walking to Infinity on the Fibonacci Sequence_ (Remote)
   
-* May 2021: Honors Thesis for The Department of Mathematics, Bowdoin College, ME, USA
+* May 2021: Honors Thesis for Bowdoin College Department of Mathematics, ME, USA
   * _On the Dirichlet $L$-functions and the $L$-functions of Modular Forms_ (Remote)
 
 * Sep 2020: The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
