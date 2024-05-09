@@ -33,24 +33,24 @@ J. Integer Seq. 25 (2022), 21 pp. [(pdf](http://ploynawapan.github.io/files/mill
 
 Talks
 ------
-* April 2024: Stanford Student Number Theory Seminar, Department of Mathematics, Stanford University, CA, USA
+* Stanford Student Number Theory Seminar, Department of Mathematics, Stanford University, CA, USA (Apr 2024)
   * _Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_
-* Mar 2024: UIUC Number Theory Seminar, Department of Mathematics, UIUC, IL, USA
+* UIUC Number Theory Seminar, Department of Mathematics, UIUC, IL, USA (Mar 2024)
   * _Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_
     
-* Mar 2024 & Nov 2023: UIUC Graduate Number Theory Seminar, UIUC, IL, USA
+* UIUC Graduate Number Theory Seminar, UIUC, IL, USA (Mar 2024 & Nov 2023)
   * _Introduction to Holomorphic quantum unique ergodicity_
 
-* Jul 2022: The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo 
+* The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo (Jul 2022)
   * _Walking to Infinity on the Fibonacci Sequence_ (Remote)
   
-* May 2021: Honors Thesis for Bowdoin College Department of Mathematics, ME, USA
+* Honors Thesis for Bowdoin College Department of Mathematics, ME, USA (May 2021)
   * _On the Dirichlet $L$-functions and the $L$-functions of Modular Forms_ (Remote)
 
-* Sep 2020: The PAlmetto Joint Arithmetic, Modularity, and Analysis Series
+* The PAlmetto Joint Arithmetic, Modularity, and Analysis Series (Sep 2020)
   * _Walking to Infinity Along Some Number Theory Sequences_ (Remote)
   
-* Oct 2019: President's Summer Research Symposium, Bowdoin College, ME, USA
+* President's Summer Research Symposium, Bowdoin College, ME, USA (Oct 2019)
   * _An Alternative Approach to Computing  $\beta(2k+1)$_ 
     
 ---
