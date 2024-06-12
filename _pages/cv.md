@@ -33,8 +33,8 @@ J. Integer Seq. 25 (2022), 21 pp. [(pdf](http://ploynawapan.github.io/files/mill
 
 Talks
 ------
+* Shandong University Number Theory Seminar (June 2024)
 * Stanford Univeristy Graduate Student Number Theory Seminar (Apr 2024)
-  * _Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_
 * UIUC Number Theory Seminar (Mar 2024)
   * _Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_
     
@@ -71,7 +71,8 @@ Teaching
 ------
   
 * <span style="color: brown;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
-  * Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA)
+  * Summer 2024: MATH 257 Linear Algebra with Computational Applications
+  * Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) $*$
   * Fall 2023: MATH 221 Calculus I, Differential Calculus $*$
   * Spring 2023: MATH 220 Calculus, Differential Calculus (Head TA) $*$
   * Fall 2022: MATH 220 Calculus, Differential Calculus $*$
