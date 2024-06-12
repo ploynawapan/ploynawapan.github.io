@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50"> Education
 ------
 * Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
 * M.S. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, awarded 2022
