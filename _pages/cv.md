@@ -29,7 +29,7 @@ Publications & preprints
 3. Walking to Infinity on the Fibonacci Sequence. (With S. Miller, F. Peng, T. Popescu) Fibonacci Quart. 60 (2022), no. 5, pp. 293-299. [(pdf)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf) <!--* & [journal's site)](https://www.fq.math.ca/60-5.html) -->
 4. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$.  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
 J. Integer Seq. 25 (2022), 21 pp. [(pdf)](http://ploynawapan.github.io/files/miller11.pdf) <!--* & [journal's site)](https://cs.uwaterloo.ca/journals/JIS/vol25.html) -->
-5. Walking to Infinity Along Some Number Theory Sequences. (With Steven J. Miller, Fei Peng, Tudor Popescu, and the Polymath REU program) arXiv preprint, arXiv:2010.14932. [(arXiv)](https://arxiv.org/abs/2010.14932)
+5. Walking to Infinity Along Some Number Theory Sequences. (With Steven J. Miller, Fei Peng, Tudor Popescu, Joshua Siktar, and the Polymath REU program) arXiv preprint, arXiv:2010.14932. [(arXiv)](https://arxiv.org/abs/2010.14932)
    
 ---
 
