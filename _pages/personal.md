@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Art & Travel"
+title: "Arts & Travel"
 permalink: /personal/
 author_profile: true
 redirect_from:
@@ -13,4 +13,4 @@ Welcome to my personal page, where I gather cherished memories shared with famil
 
 In addition to my love for travel, I'm also passionate about oil painting and photography. These artistic pursuits allow me to express myself creatively. Feel free to check out my artwork and photography portfolio [here](https://ploynawapan.github.io/portfolio/). 
 
-![mycat](/images/meow_clemantine.jpg)
+<! -- ![mycat](/images/meow_clemantine.jpg) -->
