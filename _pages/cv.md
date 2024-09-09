@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://ploynawapan.github.io/files/miller11.pdf) for a printer-friendly version of my curriculum vitae. 
+Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) for a printer-friendly version of my curriculum vitae. 
 
 Education
 ------
