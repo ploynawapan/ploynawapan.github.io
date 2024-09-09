@@ -24,20 +24,21 @@ Education
     
 ---
 
-Publications & preprints
+<!-- Publications & preprints
 ------
 1. Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. (With an appendix by Jesse Thorner) [(arXiv)](http://arxiv.org/abs/2405.05249)
-2. An Alternative Approach to Computing $\beta(2k + 1)$. (With N. Tanabe) Integers 23 (2023). [(pdf)](http://math.colgate.edu/~integers/x72/x72.pdf) <!--* & [journal's site)](http://math.colgate.edu/~integers/vol23.html) -->
-3. Walking to Infinity on the Fibonacci Sequence. (With S. Miller, F. Peng, T. Popescu) Fibonacci Quart. 60 (2022), no. 5, pp. 293-299. [(pdf)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf) <!--* & [journal's site)](https://www.fq.math.ca/60-5.html) -->
+2. An Alternative Approach to Computing $\beta(2k + 1)$. (With N. Tanabe) Integers 23 (2023). [(pdf)](http://math.colgate.edu/~integers/x72/x72.pdf) & [journal's site)](http://math.colgate.edu/~integers/vol23.html) 
+3. Walking to Infinity on the Fibonacci Sequence. (With S. Miller, F. Peng, T. Popescu) Fibonacci Quart. 60 (2022), no. 5, pp. 293-299. [(pdf)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf) & [journal's site)](https://www.fq.math.ca/60-5.html) 
 4. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$.  (With B. Li, S. Miller, D. Sarnecki, T. Popescu)
-J. Integer Seq. 25 (2022), 21 pp. [(pdf)](http://ploynawapan.github.io/files/miller11.pdf) <!--* & [journal's site)](https://cs.uwaterloo.ca/journals/JIS/vol25.html) -->
+J. Integer Seq. 25 (2022), 21 pp. [(pdf)](http://ploynawapan.github.io/files/miller11.pdf)  & [journal's site)](https://cs.uwaterloo.ca/journals/JIS/vol25.html) 
 5. Walking to Infinity Along Some Number Theory Sequences. (With Steven J. Miller, Fei Peng, Tudor Popescu, Joshua Siktar, and the Polymath REU program) arXiv preprint, arXiv:2010.14932. [(arXiv)](https://arxiv.org/abs/2010.14932)
    
 ---
-
+-->
+<!--
 Talks
 ------
-<!--* _Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_ -->
+_Holomorphic quantum unique ergodicity & weak subconvexity for $L$-functions_ 
   * Shandong University Number Theory Seminar (June 2024)(Remote)
   * Stanford Univeristy Graduate Student Number Theory Seminar (Apr 2024)(Remote)
   * UIUC Number Theory Seminar (Mar 2024)
@@ -72,7 +73,7 @@ Talks
   * Project: ''An Alternative Approach to Computing \\(\beta(2k+1)\\).''
   * Supervisor: Professor Naomi Tanabe, Ph.D., Bowdoin College -->
 
-Teaching
+<!--* Teaching
 ------
   
 * <span style="color: brown;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
@@ -105,7 +106,8 @@ $*$ = ranked as an excellent teacher by students.
 * Summer 2018:  <span style="color: brown;">Mathematics Teaching Assistant</span>,Brewster Academy, NH, USA
   * Worked with a program funded by the Thai Government; facilitated SAT preparation class; organized activities for students.
 
----
+--- 
+-->
 
 Awards and Honors 
 ------
