@@ -126,7 +126,7 @@ Awards and Honors
 
 Workshops and Conferences attended
 ------
-* Summer 2022: <span style="color: #808000;">Shanks Conference</span>, International Conference on L-Functions and Automorphic Forms
+* May 2024: <span style="color: #808000;">Shanks Conference</span>, International Conference on L-Functions and Automorphic Forms
 , Vanderbuilt, TN.
 * October 2023: <span style="color: #808000;">MAGNTS</span>, Midwest Arithmetic Geometry and Number Theory Conference, Ann Arbor, MI
 * Jan 2023: <span style="color: #808000;">Spring Opportunities</span>, Spring Opportunities at IAS, NJ
