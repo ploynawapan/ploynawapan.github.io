@@ -108,27 +108,27 @@ $*$ = ranked as an excellent teacher by students.
 
 Awards and Honors 
 ------
-* Spring 2021: <span style="color: brown;">Edward Sanford Hammond Mathematics Prize</span>, Bowdoin College
+* Spring 2021: <span style="color: #808000;">Edward Sanford Hammond Mathematics Prize</span>, Bowdoin College
   * Awarded to a senior who is completing mathematics major with distinction.
-* Spring 2021: <span style="color: brown;">Phi Beta Kappa</span>, Alpha of Maine Chapter, ME, USA
-* 2019 - 2021: <span style="color: brown;">Smyth Mathematics Prize</span>, Bowdoin College 
+* Spring 2021: <span style="color: #808000;">Phi Beta Kappa</span>, Alpha of Maine Chapter, ME, USA
+* 2019 - 2021: <span style="color: #808000;">Smyth Mathematics Prize</span>, Bowdoin College 
   * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
-* 2020: <span style="color: brown;">Bowdoin Book Award</span>, Bowdoin College 
+* 2020: <span style="color: #808000;">Bowdoin Book Award</span>, Bowdoin College 
   * Awarded to an undergraduate who has received a grade point average of 4.0 during the last academic year.
-* 2019: <span style="color: brown;">Kibbe Science Fellowship</span>, Bowdoin College, ME, USA
+* 2019: <span style="color: #808000;">Kibbe Science Fellowship</span>, Bowdoin College, ME, USA
   * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing   \\(\beta(2k+1)\\)" in summer 2019.
-* 2017 - 2019: <span style="color: brown;">Sarah and James Bowdoin Scholar</span>, Bowdoin College 
+* 2017 - 2019: <span style="color: #808000;">Sarah and James Bowdoin Scholar</span>, Bowdoin College 
   * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
-* 2016 - 2021: <span style="color: brown;">King’s Scholarship</span>, Royal Thai Government, Thailand
+* 2016 - 2021: <span style="color: #808000;">King’s Scholarship</span>, Royal Thai Government, Thailand
   * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
     
 ---
 
 Workshops
 ------
-* Summer 2022: <span style="color: brown;">CTNT</span>, Connecticut Summer School in Number Theory 2022, Storrs, CT
+* Summer 2022: <span style="color: #808000;">CTNT</span>, Connecticut Summer School in Number Theory 2022, Storrs, CT
   * Topics: Algebraic number theory, Local fields, Chebotarav density theorem, Galois representation
-* Summer 2019: <span style="color: brown;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
+* Summer 2019: <span style="color: #808000;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
     
 ---
