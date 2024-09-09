@@ -13,6 +13,7 @@ Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) fo
 
 Education
 ------
+---
 * Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
   * Advisor: [Jesse Thorner](https://sites.google.com/view/jessethorner)
 * M.S. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, awarded 2022
@@ -22,7 +23,6 @@ Education
 * Studied Aboard at Budapest Semesters in Mathematics (BSM), Budapest, Hungary, Spring 2020
   * Completed with honors  <!--GPA: 3.92 -->
     
----
 
 <!-- Publications & preprints
 ------
@@ -108,6 +108,7 @@ $*$ = ranked as an excellent teacher by students.
 
 Awards and Honors 
 ------
+---
 * Spring 2021: <span style="color: #808000;">Edward Sanford Hammond Mathematics Prize</span>, Bowdoin College
   * Awarded to a senior who is completing mathematics major with distinction.
 * Spring 2021: <span style="color: #808000;">Phi Beta Kappa</span>, Alpha of Maine Chapter, ME, USA
@@ -122,10 +123,10 @@ Awards and Honors
 * 2016 - 2021: <span style="color: #808000;">King’s Scholarship</span>, Royal Thai Government, Thailand
   * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
     
----
 
 Workshops and Conferences attended
 ------
+---
 * May 2024: <span style="color: #808000;">Shanks Conference</span>, International Conference on L-Functions and Automorphic Forms
 , Vanderbuilt, TN.
 * October 2023: <span style="color: #808000;">MAGNTS</span>, Midwest Arithmetic Geometry and Number Theory Conference, Ann Arbor, MI
@@ -135,7 +136,6 @@ Workshops and Conferences attended
 * Summer 2019: <span style="color: #808000;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
   * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
     
----
 
 
  
