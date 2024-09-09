@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](http://ploynawapan.github.io/files/miller11.pdf) for a printer-friendly version of my curriculum vitae. 
+
 Education
 ------
 * Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
