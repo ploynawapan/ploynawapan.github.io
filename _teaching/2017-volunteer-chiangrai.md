@@ -1,22 +1,21 @@
 ---
-title: "Volunteer teacher (Kru-Ar-Sah)"
+title: "Teaching volunteer in Chiangrai (Kru-Ar-Sah)"
 collection: teaching
 type: "Teaching program"
-excerpt: <img src='/images/ch4.png' width='230' height='170' align="right" hspace="20"> My friends and I had thought a lot about poor Thai education caused by social inequality and ignorance. We, as Thai scholars, had much better opportunities than 90% of students in Thailand. Although it was partly because of our effort, which shouldn't be disregarded, we knew that many students couldn't get proper education even if they tried as hard. Thus, one goal we had after a year in the US was that we wanted to volunteer as teachers in some rural areas to 'see' what happened in Thailand. 
+excerpt: <img src='/images/ch4.png' width='230' height='170' align="right" hspace="20"> My friends and I have thought a lot about how Thai education is greatly impacted by unequal distribution of resources, opportunities, and living standards across different regions. While most of us live in the capital of our provinces, there are a lot of students who live in rural and almost inaccessible areas. We then decided to volunteer as teachers during the summer of 2017. The organization whom we partnered with was Kru-Ar-Sah, which has been known to help thousands and thousands of students over decades. 
 permalink: /teaching/2017-volunteer-chiangrai
 venue: "Baan Huai Hin Laad Nai, Chiang Rai, Thailand"
 date: 2017-12-25
 location: "Chiang Rai, Thailand"
 ---
 
-My friends and I had thought a lot about poor Thai education caused by social inequality and ignorance. We, as Thai scholars, had much better opportunities than 90% of students in Thailand. Although it was partly because of our effort, which shouldn't be disregarded, we knew that many students couldn't get proper education even if they tried as hard. Thus, one goal we had after a year in the US was that we wanted to volunteer as teachers in some rural areas to 'see' what happened in Thailand. 
-
+My friends and I have thought a lot about how Thai education is greatly impacted by unequal distribution of resources, opportunities, and living standards across different regions. While most of us live in the capital of our provinces, there are a lot of students who live in rural and almost inaccessible areas. We then decided to volunteer as teachers during the summer of 2017. The organization whom we partnered with was Kru-Ar-Sah, which has been known to help thousands and thousands of students over decades. 
 
 <p align="center">
   <img src="/images/ch1.png">
 </p>
 
-We knew that our action couldn't fix the actual root of this issue, but we did believe it was better than nothing. At least, when we get old and have more authority and wealth, we would remember the kids we taught and support them in whatever way we can. We went to the school called "Rong Rien Wat Huai Hin Laad Nai (Wat Huai Hin Laad Nai school)." The school is uphill in a rural area in Chiang Rai. I went with Um-im, Nita, Net, Natee, Armor, Purim, and Smile. Luckily, Um-im and Smile are in the area, so we could stay with them and travel in the city for a bit before teaching the kids. Note that the kids we taught are a minority group in Thailand, or what Thai people call "Pakakayor ปะกากญอ." They know Thai but cannot communicate that well.
+We went to the school called "Rong Rien Wat Huai Hin Laad Nai (Wat Huai Hin Laad Nai school)." The school is uphill in a rural area in Chiang Rai. I went with Um-im, Nita, Net, Natee, Armor, Purim, and Smile. Luckily, Um-im and Smile are in the area, so we could stay with them and travel in the city for a bit before teaching the kids. Note that the kids we taught are a minority group in Thailand, or what Thai people call "Pakakayor ปะกากญอ." They know Thai but cannot communicate that well.
 
 <p align="center">
   <img src="/images/ch3.png">
