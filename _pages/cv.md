@@ -123,18 +123,6 @@ Awards and Honors
 * 2016 - 2021: <span style="color: #808000;">King’s Scholarship</span>, Royal Thai Government, Thailand
   * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
     
-
-Workshops and Conferences attended
-------
----
-* May 2024: <span style="color: #808000;">Shanks Conference</span>, International Conference on L-Functions and Automorphic Forms
-, Vanderbuilt, TN.
-* October 2023: <span style="color: #808000;">MAGNTS</span>, Midwest Arithmetic Geometry and Number Theory Conference, Ann Arbor, MI
-* Jan 2023: <span style="color: #808000;">Spring Opportunities</span>, Institue of Advanced Study, NJ
-* Summer 2022: <span style="color: #808000;">CTNT</span>, Connecticut Summer School in Number Theory 2022, Storrs, CT
-  * Topics: Algebraic number theory, Local fields, Chebotarav density theorem, Galois representation
-* Summer 2019: <span style="color: #808000;">PCMI</span> Mathematics Undergraduate Summer School at Park city, UT 
-  * Topics: Gauge Theory, Gravitation, & Geometry and Low-dimensional Topology
     
 
 
