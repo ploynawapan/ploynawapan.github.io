@@ -3,7 +3,7 @@ title: "2019 & 2020 Winter Program for Thai Scholars"
 collection: teaching
 type: "Winter Program"
 excerpt: <img src='/images/sit2.png' width='230' height='170' align="right" hspace="20"> During my senior year at Holderness School, I attended a winter program for Thai scholars. With my friends, we worked on our personal statements and several other essays for college applications. Then, in 2019, I came back as a teaching assistant, helping new Thai scholars navigate the American college application process. Here are some quick links to the presentations about how to list [honors/awards](https://drive.google.com/file/d/1sVsCDP0ytKitZeydRZ-xPFvhKVrYbLXr/view?usp=sharing) and [activities](https://drive.google.com/file/d/1bgMDyHT-XqA90M6zHmGellevF_4O46dI/view?usp=sharing) in the Commonapp.
-permalink: /teaching/2020-2019-Winter-Program
+permalink: /teaching/2019-2020-Winter-Program
 venue: "SIT graduate, VT, USA"
 date: 2019-12-25
 location: "Brattleboro, VT, USA"
