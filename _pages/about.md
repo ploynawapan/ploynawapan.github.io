@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! I'm Nawapan Wattanawanichkul, but you can call me "Ploy". Originally from Ubon Ratchatani, Thailand, I received the King's scholarship from the Thai government in 2016, which allowed me to pursue my undergraduate studies at Bowdoin College in the United States. Currently, I am working towards a Ph.D. in mathematics at the University of Illinois Urbana-Champaign, with a primary focus on analytic number theory, particularly $L$-functions.
+Hello, everyone! I'm Nawapan Wattanawanichkul, but I also go by "Ploy". Originally from Ubon Ratchatani, Thailand, I received the King's Scholarship from the Thai government in 2016, which allowed me to pursue my undergraduate studies at Bowdoin College in the United States. Currently, I am working towards a Ph.D. in mathematics at the University of Illinois Urbana-Champaign, with a primary focus on analytic number theory, particularly in the theory of $L$-functions.
 
-Outside of my academic pursuits, I have a passion for painting, baking, and traveling. On this platform, I'll be regularly sharing updates such as new papers, lecture notes, and memorable experiences, so be sure to stay tuned!
+<!--- Outside of my academic pursuits, I have a passion for painting, baking, and traveling. On this platform, I'll be regularly sharing updates such as new papers, lecture notes, and memorable experiences, so be sure to stay tuned!---!>
 
 
 
