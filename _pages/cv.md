@@ -111,15 +111,15 @@ Awards and Honors
   * Awarded to a senior who is completing mathematics major with distinction.
 * Spring 2021: Phi Beta Kappa, Alpha of Maine Chapter, ME, USA
 * 2019 - 2021: Smyth Mathematics Prize, Bowdoin College 
-  * Awarded to a student with the highest grades in mathematics during the first two years. Both the number of courses and their difficulty were considered.
+  * Awarded to a student with the highest grades in mathematics during the first two years.
 * 2020: Bowdoin Book Award, Bowdoin College 
   * Awarded to an undergraduate who has received a grade point average of 4.0 during the last academic year.
 * 2019:Kibbe Science Fellowship, Bowdoin College, ME, USA
-  * Fellowship for summer research in STEM that supported the research titled "An Alternative Approach to Computing   \\(\beta(2k+1)\\)" in summer 2019.
+  * Fellowship to support a summer research in STEM.
 * 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College 
-  * Given to the top 20 percent of students, as calculated by grade point average on the basis of work completed the previous academic year.
+  * Given to the top 20 percent of students, as calculated by grade point average completed the previous academic year.
 * 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
-  * A prestigious full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
+  * A full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
     
     
 
