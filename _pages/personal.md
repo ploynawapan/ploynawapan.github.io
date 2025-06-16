@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Arts & Travels"
+title:
 permalink: /personal/
 author_profile: true
 redirect_from:
