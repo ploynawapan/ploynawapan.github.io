@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-.page-title {
-  display: none;
-}
-
 Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) for a printer-friendly version of my curriculum vitae. 
 
 Education
