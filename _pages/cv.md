@@ -12,7 +12,7 @@ Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) fo
 Education
 ------
 ---
-* Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present
+* Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present (Expected 2026)
   * Advisor: [Jesse Thorner](https://sites.google.com/view/jessethorner)
 * M.S. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, awarded 2022
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2017-2021
@@ -107,16 +107,18 @@ $*$ = ranked as an excellent teacher by students.
 Awards and Honors 
 ------
 ---
-* Spring 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College
+* 2025: The Paul T. Bateman Fellowship, UIUC Urbana, IL, USA
+  * Awarded to a student actively working on research and writing thesis in number theory.
+* Spring 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College, ME, USA
   * Awarded to a senior who is completing mathematics major with distinction.
 * Spring 2021: Phi Beta Kappa, Alpha of Maine Chapter, ME, USA
-* 2019 - 2021: Smyth Mathematics Prize, Bowdoin College 
+* 2019 - 2021: Smyth Mathematics Prize, Bowdoin College, ME, USA 
   * Awarded to a student with the highest grades in mathematics during the first two years.
-* 2020: Bowdoin Book Award, Bowdoin College 
-  * Awarded to an undergraduate who has received a grade point average of 4.0 during the last academic year.
+* 2020: Bowdoin Book Award, Bowdoin College, ME, USA 
+  * Awarded to an undergraduate who has received a grade point average of 4.0 during the last year.
 * 2019:Kibbe Science Fellowship, Bowdoin College, ME, USA
   * Fellowship to support a summer research in STEM.
-* 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College 
+* 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College, ME, USA 
   * Given to the top 20 percent of students, as calculated by grade point average.
 * 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
   * A full-ride scholarship for overseas undergraduate studies, given to 9 students who got the highest scores in the qualifying exam, organized by the Office of the Civil Service Commission.
