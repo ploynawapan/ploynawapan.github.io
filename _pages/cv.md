@@ -116,7 +116,7 @@ Awards and Honors
   * Awarded to a student with the highest grades in mathematics during the first two years.
 * 2020: Bowdoin Book Award, Bowdoin College, ME, USA 
   * Awarded to an undergraduate who has received a grade point average of 4.0 during the last year.
-* 2019:Kibbe Science Fellowship, Bowdoin College, ME, USA
+* 2019: Kibbe Science Fellowship, Bowdoin College, ME, USA
   * Fellowship to support a summer research in STEM.
 * 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College, ME, USA 
   * Given to the top 20 percent of students, as calculated by grade point average.
