@@ -108,32 +108,32 @@ Awards and Honors
 ------
 ---
 * 2025: The Paul T. Bateman Fellowship, UIUC Urbana, IL, USA
-  <ul style="font-size: 0.9em;">
+  <ul style="font-size: 0.95em;">
     <li>Awarded to a student actively working on research and writing thesis in number theory.</li>
    </ul>
 * Spring 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College, ME, USA
-   <ul style="font-size: 0.9em;">
+   <ul style="font-size: 0.95em;">
      <li>Awarded to a senior who is completing mathematics major with distinction.</li>
     </ul>
 * Spring 2021: Phi Beta Kappa, Alpha of Maine Chapter, ME, USA
 * 2019 - 2021: Smyth Mathematics Prize, Bowdoin College, ME, USA 
-   <ul style="font-size: 0.9em;">
+   <ul style="font-size: 0.95em;">
      <li>Awarded to a student with the highest grades in mathematics during the first two years.</li>
     </ul>
 * 2020: Bowdoin Book Award, Bowdoin College, ME, USA 
-  <ul style="font-size: 0.9em;">
+  <ul style="font-size: 0.95em;">
      <li>Awarded to an undergraduate who has received a grade point average of 4.0 during the last year.</li>
     </ul>
 * 2019: Kibbe Science Fellowship, Bowdoin College, ME, USA
-  <ul style="font-size: 0.9em;">
+  <ul style="font-size: 0.95em;">
      <li>Fellowship to support a summer research in STEM.</li>
     </ul>
 * 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College, ME, USA 
-   <ul style="font-size: 0.9em;">
+   <ul style="font-size: 0.95em;">
      <li>Given to the top 20 percent of students, as calculated by grade point average.</li>
     </ul>
 * 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
-  <ul style="font-size: 0.9em;">
+  <ul style="font-size: 0.95em;">
      <li>A full-ride scholarship for overseas undergraduate studies.</li>
     </ul>
     
