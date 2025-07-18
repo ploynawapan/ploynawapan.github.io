@@ -122,7 +122,7 @@ Awards and Honors
   * Given to the top 20 percent of students, as calculated by grade point average.
 * 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
   * A full-ride scholarship for overseas undergraduate studies, given to 9 students who got
-  * the highest scores in the exam, organized by the Office of the Civil Service Commission.
+  the highest scores in the exam, organized by the Office of the Civil Service Commission.
     
     
 
