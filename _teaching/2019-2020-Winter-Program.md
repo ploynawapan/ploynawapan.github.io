@@ -9,10 +9,6 @@ date: 2019-12-25
 location: "Brattleboro, VT, USA"
 ---
 
-<p align="center">
-  <img src="/images/sit1.png">
-</p>
-
 During my senior year at Holderness School, I attended a winter program for Thai scholars. With my friends, we worked on our personal statements and several other essays for college applications. Then, in 2019, I came back as a teaching assistant, helping new Thai scholars navigate the American college application process. The work was very tedious as it includes application proofreading, but it felt really good to do something for my Thai friends TS '61 (Thai scholars Buddhist year 2561). I did the job again in 2020, working with another group, TS '62. 
 
 <p align="center">
