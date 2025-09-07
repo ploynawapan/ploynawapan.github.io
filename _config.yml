@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ploy (Nawapan) Wattanawanichkul"
   avatar           : "Ploy-headshot.jpeg"  
-  bio              : "A fourth-year mathematics Ph.D. student at the University of Illinois Urbana-Champaign"
+  bio              : "A fifty-year mathematics Ph.D. student at the University of Illinois Urbana-Champaign"
   location         : "IL, USA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nawapan-wattanawanichkul"
+  linkedin         : #"nawapan-wattanawanichkul"
   orcid            : #"0000-0001-7035-9113"
   pinterest        :
   soundcloud       :
