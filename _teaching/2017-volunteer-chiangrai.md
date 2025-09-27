@@ -1,5 +1,5 @@
 ---
-title: "Teaching volunteer in Chiangrai (Kru-Ar-Sah)"
+title: "Teaching volunteer in Chiangrai (Kroo-Ban-Nok)"
 collection: teaching
 type: "Teaching program"
 excerpt: <img src='/images/ch4.png' width='230' height='170' align="right" hspace="20"> My friends and I have thought a lot about how Thai education is greatly impacted by unequal distribution of resources, opportunities, and living standards across different regions. While most of us live in the capital of our provinces, there are a lot of students who live in rural and almost inaccessible areas. We then decided to volunteer as teachers during the summer of 2017. The organization whom we partnered with was Kroo-Ban-Nok, which has been known to help thousands and thousands of students over decades. 
