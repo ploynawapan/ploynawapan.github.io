@@ -111,7 +111,7 @@ Awards and Honors
   <ul style="font-size: 0.95em;">
     <li>Awarded to a graduate student in recognition of outstanding research in number theory.</li>
    </ul>
-* 2025: The Paul T. Bateman Fellowship, UIUC, IL, USA
+* 2025: Paul T. Bateman Fellowship, UIUC, IL, USA
   <ul style="font-size: 0.95em;">
     <li>Awarded to a student actively working on research and writing thesis in number theory.</li>
    </ul>
