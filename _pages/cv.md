@@ -107,7 +107,7 @@ $*$ = ranked as an excellent teacher by students.
 Awards and Honors 
 ------
 ---
-* 2025: Prize in Number Theory, UIUC, IL, USA
+* 2025: Bateman Prize in Number Theory, UIUC, IL, USA
   <ul style="font-size: 0.95em;">
     <li>Awarded to a graduate student in recognition of outstanding research in number theory.</li>
    </ul>
