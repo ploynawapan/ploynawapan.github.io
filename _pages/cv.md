@@ -115,9 +115,9 @@ Awards and Honors
   <ul style="font-size: 0.95em;">
     <li>Awarded to a student actively working on research and writing thesis in number theory.</li>
    </ul>
-* 2025: Departmental TA Instructional Award Nominee, UIUC, IL, USA
+* 2025: Departmental TA Instructional Award, UIUC, IL, USA
    <ul style="font-size: 0.95em;">
-    <li>For excellence and dedication in undergraduate mathematics instruction.</li>
+    <li>Awarded to graduate teaching assistants for exemplary teaching.</li>
    </ul>
 * Spring 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College, ME, USA
    <ul style="font-size: 0.95em;">
