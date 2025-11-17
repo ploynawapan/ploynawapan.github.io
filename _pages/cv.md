@@ -119,11 +119,11 @@ Awards and Honors
    <ul style="font-size: 0.95em;">
     <li>Awarded to graduate teaching assistants for exemplary teaching.</li>
    </ul>
-* Spring 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College, ME, USA
+* 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College, ME, USA
    <ul style="font-size: 0.95em;">
      <li>Awarded to a senior who is completing mathematics major with distinction.</li>
     </ul>
-* Spring 2021: Phi Beta Kappa, Alpha of Maine Chapter, ME, USA
+* 2021: Phi Beta Kappa, Alpha of Maine Chapter, ME, USA
 * 2019 - 2021: Smyth Mathematics Prize, Bowdoin College, ME, USA 
    <ul style="font-size: 0.95em;">
      <li>Awarded to a student with the highest grades in mathematics during the first two years.</li>
