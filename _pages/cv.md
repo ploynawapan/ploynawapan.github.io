@@ -108,11 +108,11 @@ Awards and Honors
 ------
 ---
 * 2026: Ruth V. Shaff and Genevie I. Andrews Fellowship, UIUC, IL, USA
-<ul style="font-size: 0.95em;">
+    <ul style="font-size: 0.95em;">
     <li>Awarded to a graduate student in Mathematics.</li>
-   </ul>
+    </ul>
 * 2026: Graduate Student Travel Grants to JMM 2026, USA
-  <ul style="font-size: 0.95em;">
+    <ul style="font-size: 0.95em;">
     <li>Awarded a travel grant to present research at the 2026 Joint Mathematics Meetings (JMM).</li>
    </ul>
 * 2025: Bateman Prize in Number Theory, UIUC, IL, USA
