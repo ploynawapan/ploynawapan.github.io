@@ -11,7 +11,6 @@ Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) fo
 
 Education
 ------
----
 * Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present (Expected 2026)
   * Advisor: [Jesse Thorner](https://sites.google.com/view/jessethorner)
 * M.S. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, awarded 2022
@@ -106,11 +105,8 @@ $*$ = ranked as an excellent teacher by students.
     </ul>
 --- 
 -->
----
-
 Awards and Honors 
 ------
----
 * 2026: Ruth V. Shaff and Genevie I. Andrews Fellowship, UIUC, IL, USA
 * 2026: Graduate Student Travel Grants to JMM 2026, USA
 * 2025: Bateman Prize in Number Theory, UIUC, IL, USA
@@ -124,11 +120,9 @@ Awards and Honors
 * 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College, ME, USA 
 * 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
 
----
   
 ## Invited Talks
 ------
----
 * JMM: AMS Special Session on Recent Trends in Analytic Number Theory, Washington, DC, Jan 2026.  
 * Palmetto Number Theory Series (PANTS), Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
 * JMM: AMS Special Session on Current Directions in Modular Forms, Seattle, WA, Jan 2025.  
@@ -139,12 +133,9 @@ Awards and Honors
 
 † indicates upcoming talks.
 
----
 
 ## Contributed Talks
 ------
----
-
 * Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
 * Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
 * Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
@@ -158,12 +149,9 @@ Awards and Honors
 
 † indicates upcoming talks.
 
----
 
 ## Workshops and Conferences Attended
 ------
----
-
 * Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
 * Dec 2025: PANTS, Palmetto Number Theory Series, Clemson, SC  
 * Jun 2025: APAM, Annual Pure and Applied Mathematics Conference, Bangkok, Thailand  
@@ -179,12 +167,8 @@ Awards and Honors
 
 † indicates upcoming conferences/workshops.
 
----
-
 ## Professional Services
-
----
-
+------
 **Referee:**  
 International Mathematics Research Notices, Revue Roumaine des Sciences Techniques, Mathematical Reports.
 
