@@ -101,59 +101,93 @@ $*$ = ranked as an excellent teacher by students.
 * Summer 2018:  <span style="color: brown;">Mathematics Teaching Assistant</span>,Brewster Academy, NH, USA
   * Worked with a program funded by the Thai Government; facilitated SAT preparation class; organized activities for students.
 
+ <ul style="font-size: 0.95em;">
+    <li>Awarded to a graduate student in Mathematics.</li>
+    </ul>
 --- 
 -->
+---
 
 Awards and Honors 
 ------
 ---
 * 2026: Ruth V. Shaff and Genevie I. Andrews Fellowship, UIUC, IL, USA
-    <ul style="font-size: 0.95em;">
-    <li>Awarded to a graduate student in Mathematics.</li>
-    </ul>
 * 2026: Graduate Student Travel Grants to JMM 2026, USA
-    <ul style="font-size: 0.95em;">
-    <li>Awarded a travel grant to present research at the 2026 Joint Mathematics Meetings (JMM).</li>
-   </ul>
 * 2025: Bateman Prize in Number Theory, UIUC, IL, USA
-  <ul style="font-size: 0.95em;">
-    <li>Awarded to a graduate student in recognition of outstanding research in number theory.</li>
-   </ul>
 * 2025: Paul T. Bateman Fellowship, UIUC, IL, USA
-  <ul style="font-size: 0.95em;">
-    <li>Awarded to a student actively working on research and writing thesis in number theory.</li>
-   </ul>
 * 2025: Departmental TA Instructional Award, UIUC, IL, USA
-   <ul style="font-size: 0.95em;">
-    <li>Awarded to graduate teaching assistants for exemplary teaching.</li>
-   </ul>
 * 2021: Edward Sanford Hammond Mathematics Prize, Bowdoin College, ME, USA
-   <ul style="font-size: 0.95em;">
-     <li>Awarded to a senior who is completing mathematics major with distinction.</li>
-    </ul>
 * 2021: Phi Beta Kappa, Alpha of Maine Chapter, ME, USA
 * 2019 - 2021: Smyth Mathematics Prize, Bowdoin College, ME, USA 
-   <ul style="font-size: 0.95em;">
-     <li>Awarded to a student with the highest grades in mathematics during the first two years.</li>
-    </ul>
 * 2020: Bowdoin Book Award, Bowdoin College, ME, USA 
-  <ul style="font-size: 0.95em;">
-     <li>Awarded to an undergraduate who has received a grade point average of 4.0 during the last year.</li>
-    </ul>
 * 2019: Kibbe Science Fellowship, Bowdoin College, ME, USA
-  <ul style="font-size: 0.95em;">
-     <li>Fellowship to support a summer research in STEM.</li>
-    </ul>
 * 2017 - 2019: Sarah and James Bowdoin Scholar, Bowdoin College, ME, USA 
-   <ul style="font-size: 0.95em;">
-     <li>Given to the top 20 percent of students, as calculated by grade point average.</li>
-    </ul>
 * 2016 - 2021: King’s Scholarship, Royal Thai Government, Thailand
-  <ul style="font-size: 0.95em;">
-     <li>A full-ride scholarship for overseas undergraduate studies.</li>
-    </ul>
-    
-    
+
+---
+  
+## Invited Talks
+------
+---
+* JMM: AMS Special Session on Recent Trends in Analytic Number Theory, Washington, DC, Jan 2026.  
+* Palmetto Number Theory Series (PANTS), Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
+* JMM: AMS Special Session on Current Directions in Modular Forms, Seattle, WA, Jan 2025.  
+* Kansas State University Graduate Student Number Theory Seminar, Sep 2024. *(remote)*  
+* Shandong University Number Theory Seminar, Jun 2024. *(remote)*  
+* Stanford University Graduate Student Number Theory Seminar, Apr 2024. *(remote)*  
+* UIUC Number Theory Seminar, University of Illinois Urbana-Champaign, IL, Mar 2024.  
+
+† indicates upcoming talks.
+
+---
+
+## Contributed Talks
+------
+---
+
+* Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
+* Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
+* Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
+* UIUC Graduate Student Number Theory Seminar, University of Illinois Urbana-Champaign, IL, Apr 2025.  
+* UIUC Graduate Student Number Theory Seminar, University of Illinois Urbana-Champaign, IL, Mar 2024.  
+* UIUC Graduate Student Number Theory Seminar, University of Illinois Urbana-Champaign, IL, Nov 2023.  
+* The 20th International Conference on Fibonacci Numbers and Their Applications, University of Sarajevo, Jul 2022. *(Remote)*  
+* Honors Thesis for Bowdoin College Department of Mathematics, Brunswick, ME, May 2021. *(Remote)*  
+* The Palmetto Joint Arithmetic, Modularity, and Analysis Series, Sep 2020. *(Remote)*  
+* Bowdoin College President's Summer Research Symposium, Brunswick, ME, Oct 2019.  
+
+† indicates upcoming talks.
+
+---
+
+## Workshops and Conferences Attended
+------
+---
+
+* Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
+* Dec 2025: PANTS, Palmetto Number Theory Series, Clemson, SC  
+* Jun 2025: APAM, Annual Pure and Applied Mathematics Conference, Bangkok, Thailand  
+* Jun 2025: CNA, Conference in Number Theory and Applications, Bangkok, Thailand  
+* Apr 2025: AFW, Automorphic Forms Workshop, Denton, TX  
+* Mar 2025: MAGNTS, Midwest Arithmetic Geometry and Number Theory Conference, Columbus, OH  
+* Jan 2025: JMM, Joint Mathematics Meeting, Seattle, WA  
+* May 2024: Shanks Conference, International Conference on L-Functions and Automorphic Forms, Nashville, TN  
+* Oct 2023: MAGNTS, Midwest Arithmetic Geometry and Number Theory Conference, Ann Arbor, MI  
+* Jan 2023: Spring Opportunities, Institute for Advanced Study, NJ  
+* Jun 2022: CTNT, Connecticut Summer School in Number Theory 2022, Storrs, CT  
+* Jul 2019: PCMI, Mathematics Undergraduate Summer School at Park City, UT  
+
+† indicates upcoming conferences/workshops.
+
+---
+
+## Professional Services
+
+---
+
+**Referee:**  
+International Mathematics Research Notices, Revue Roumaine des Sciences Techniques, Mathematical Reports.
+
 
 
  
