@@ -105,7 +105,7 @@ $*$ = ranked as an excellent teacher by students.
     </ul>
 --- 
 -->
-Awards and Honors 
+## Awards and Honors 
 
 * 2026: Ruth V. Shaff and Genevie I. Andrews Fellowship, UIUC, IL, USA
 * 2026: Graduate Student Travel Grants to JMM 2026, USA
