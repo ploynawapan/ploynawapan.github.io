@@ -107,6 +107,7 @@ $*$ = ranked as an excellent teacher by students.
 -->
 Awards and Honors 
 ---
+
 * 2026: Ruth V. Shaff and Genevie I. Andrews Fellowship, UIUC, IL, USA
 * 2026: Graduate Student Travel Grants to JMM 2026, USA
 * 2025: Bateman Prize in Number Theory, UIUC, IL, USA
@@ -123,6 +124,7 @@ Awards and Honors
   
 ## Invited Talks
 ---
+
 * JMM: AMS Special Session on Recent Trends in Analytic Number Theory, Washington, DC, Jan 2026.  
 * Palmetto Number Theory Series (PANTS), Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
 * JMM: AMS Special Session on Current Directions in Modular Forms, Seattle, WA, Jan 2025.  
@@ -136,6 +138,7 @@ Awards and Honors
 
 ## Contributed Talks
 ---
+
 * Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
 * Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
 * Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
@@ -152,6 +155,7 @@ Awards and Honors
 
 ## Workshops and Conferences Attended
 ---
+
 * Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
 * Dec 2025: PANTS, Palmetto Number Theory Series, Clemson, SC  
 * Jun 2025: APAM, Annual Pure and Applied Mathematics Conference, Bangkok, Thailand  
@@ -169,6 +173,7 @@ Awards and Honors
 
 ## Professional Services
 ---
+
 **Referee:**  
 International Mathematics Research Notices, Revue Roumaine des Sciences Techniques, Mathematical Reports.
 
