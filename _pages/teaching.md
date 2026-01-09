@@ -28,36 +28,36 @@ author_profile: true
 ## Teaching Experience
 
 * **Graduate Teaching Assistant, University of Illinois Urbana-Champaign**
-    * Fall 2025: MATH 231 Calculus II, Integral Calculus (currently teaching)
-    * Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
-    * Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
-    * Fall 2023: MATH 221 Calculus I, Differential Calculus †
-    * Spring 2023: MATH 220 Calculus, Differential Calculus (Head TA) †
-    * Fall 2022: MATH 220 Calculus, Differential Calculus †
-    * Spring 2022: MATH 220 Calculus, Differential Calculus †
-    * Fall 2021: MATH 231 Calculus II, Integral Calculus
+    - Fall 2025: MATH 231 Calculus II, Integral Calculus (currently teaching)
+    - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
+    - Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
+    - Fall 2023: MATH 221 Calculus I, Differential Calculus †
+    - Spring 2023: MATH 220 Calculus, Differential Calculus (Head TA) †
+    - Fall 2022: MATH 220 Calculus, Differential Calculus †
+    - Spring 2022: MATH 220 Calculus, Differential Calculus †
+    - Fall 2021: MATH 231 Calculus II, Integral Calculus
     
   † *indicates "ranked as an excellent teacher by students".*
 
 * **Graduate Mathematics Grader, University of Illinois Urbana-Champaign**
-    * Summer 2023: MATH 347 Fundamental Mathematics
+    - Summer 2023: MATH 347 Fundamental Mathematics
 
 * **Quantitative Reasoning Tutor, Bowdoin College**
 
 * **Undergraduate Mathematics Grader, Bowdoin College**
-    * Fall 2019: MATH 2303 Functions of Complex Variables
-    * Fall 2019: MATH 2602 Introduction to Group Theory
-    * Spring 2019: MATH 2020 Mathematical Reasoning
-    * Fall 2018: MATH 2020 Mathematical Reasoning
+    - Fall 2019: MATH 2303 Functions of Complex Variables
+    - Fall 2019: MATH 2602 Introduction to Group Theory
+    - Spring 2019: MATH 2020 Mathematical Reasoning
+    - Fall 2018: MATH 2020 Mathematical Reasoning
 
 ## Mentorship & Outreach
 
-* **Fall 2024:** Instructor for UIUC Math Circle, University of Illinois Urbana-Champaign
-* **Summer 2020:** Polymath Jr. REU Teaching Assistant, Remote
-* **Summers 2022, 2017, 2016:** Invited Speaker, Benchama Maharat School
-* **Winters 2018, 2019:** Academic Program Assistant, SIT Graduate institution, VT, US
-* **Summer 2018:** Academic Program Assistant, Brewster Academy, NH, US
-* **Summer 2017:** Teaching Volunteer, Chiangrai, Thailand
+- **Fall 2024:** Instructor for UIUC Math Circle, University of Illinois Urbana-Champaign
+- **Summer 2020:** Polymath Jr. REU Teaching Assistant, Remote
+- **Summers 2022, 2017, 2016:** Invited Speaker, Benchama Maharat School
+- **Winters 2018, 2019:** Academic Program Assistant, SIT Graduate institution, VT, US
+- **Summer 2018:** Academic Program Assistant, Brewster Academy, NH, US
+- **Summer 2017:** Teaching Volunteer, Chiangrai, Thailand
 
 
 <!-- <head>
@@ -118,21 +118,16 @@ author_profile: true
   -->
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Research highlights</title>
-</head>
-    <h2>Some teaching highlights </h2>
-    <hr>
-<body>
-<ul style="font-size: 0.9em;">
-    <li> <a href="/teaching/2022-Summer-Teaching">July 2022 Invited Speaker at Benchama Maharat School</a>  </li>  
-    <li> <a href="/teaching/2019-2020-Winter-Program">2019 & 2020 Winter Program for Thai Scholars</a> </li>  
-    <li> <a href="/teaching/2018-Brewster-Summer">2018 Summer Camp for Thai Scholars</a>  </li>  
-    <li> <a href="/teaching/2017-volunteer-chiangrai">Teaching Volunteer (Kru-Ar-Sah)</a> </li>  
- </ul>
-</body>
+## Some teaching highlights
+
+<div style="font-size: 0.9em;">
+
+- [July 2022 Invited Speaker at Benchama Maharat School](/teaching/2022-Summer-Teaching)
+- [2019 & 2020 Winter Program for Thai Scholars](/teaching/2019-2020-Winter-Program)
+- [2018 Summer Camp for Thai Scholars](/teaching/2018-Brewster-Summer)
+- [Teaching Volunteer (Kru-Ar-Sah)](/teaching/2017-volunteer-chiangrai)
+
+</div>
 
 
     
