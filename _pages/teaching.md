@@ -27,7 +27,7 @@ author_profile: true
 
 ## Teaching Experience
 
-* Graduate Teaching Assistant, University of Illinois Urbana-Champaign
+* *Graduate Teaching Assistant*, University of Illinois Urbana-Champaign
     - Fall 2025: MATH 231 Calculus II, Integral Calculus (currently teaching)
     - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
     - Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
@@ -39,12 +39,12 @@ author_profile: true
     
   † *indicates "ranked as an excellent teacher by students".*
 
-* Graduate Mathematics Grader, University of Illinois Urbana-Champaign
+* *Graduate Mathematics Grader*, University of Illinois Urbana-Champaign
     - Summer 2023: MATH 347 Fundamental Mathematics
 
-* Quantitative Reasoning Tutor, Bowdoin College
+* *Quantitative Reasoning Tutor*, Bowdoin College
 
-* Undergraduate Mathematics Grader, Bowdoin College
+* *Undergraduate Mathematics Grader*, Bowdoin College
     - Fall 2019: MATH 2303 Functions of Complex Variables
     - Fall 2019: MATH 2602 Introduction to Group Theory
     - Spring 2019: MATH 2020 Mathematical Reasoning
@@ -63,10 +63,10 @@ author_profile: true
 
 <div style="font-size: 0.9em;">
 
-- [July 2022 Invited Speaker at Benchama Maharat School](/teaching/2022-Summer-Teaching)
-- [2019 & 2020 Winter Program for Thai Scholars](/teaching/2019-2020-Winter-Program)
-- [2018 Summer Camp for Thai Scholars](/teaching/2018-Brewster-Summer)
-- [Teaching Volunteer (Kru-Ar-Sah)](/teaching/2017-volunteer-chiangrai)
+* [July 2022 Invited Speaker at Benchama Maharat School](/teaching/2022-Summer-Teaching)
+* [2019 & 2020 Winter Program for Thai Scholars](/teaching/2019-2020-Winter-Program)
+* [2018 Summer Camp for Thai Scholars](/teaching/2018-Brewster-Summer)
+* [Teaching Volunteer (Kru-Ar-Sah)](/teaching/2017-volunteer-chiangrai)
 
 </div>
 
