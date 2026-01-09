@@ -26,7 +26,6 @@ author_profile: true
 </style>
 
 ## Publications & preprints
----
 
 1. **Decorrelation of Hecke-Maaß cusp forms.** (With Jesse Thorner, in preparation)
 
