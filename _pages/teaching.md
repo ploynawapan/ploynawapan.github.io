@@ -61,7 +61,7 @@ author_profile: true
 
 ## Some teaching highlights
 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em;" markdown="1">
 
 * [July 2022 Invited Speaker at Benchama Maharat School](/teaching/2022-Summer-Teaching)
 * [2019 & 2020 Winter Program for Thai Scholars](/teaching/2019-2020-Winter-Program)
@@ -69,7 +69,6 @@ author_profile: true
 * [Teaching Volunteer (Kru-Ar-Sah)](/teaching/2017-volunteer-chiangrai)
 
 </div>
-
 
 <!-- <head>
   <meta charset="UTF-8">
