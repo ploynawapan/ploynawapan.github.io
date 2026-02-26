@@ -123,6 +123,7 @@ $*$ = ranked as an excellent teacher by students.
   
 ## Invited Talks
 
+* Kansas State University Graduate Student Number Theory Seminar, Manhattan, KS, Feb 2026. 
 * JMM: AMS Special Session on Recent Trends in Analytic Number Theory, Washington, DC, Jan 2026.  
 * Palmetto Number Theory Series (PANTS), Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
 * JMM: AMS Special Session on Current Directions in Modular Forms, Seattle, WA, Jan 2025.  
