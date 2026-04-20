@@ -28,7 +28,7 @@ author_profile: true
 ## Teaching Experience
 
 * *Graduate Teaching Assistant*, University of Illinois Urbana-Champaign
-    - Fall 2025: MATH 231 Calculus II, Integral Calculus (currently teaching)
+    - Fall 2025: MATH 231 Calculus II, Integral Calculus
     - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
     - Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
     - Fall 2023: MATH 221 Calculus I, Differential Calculus †
