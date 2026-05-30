@@ -9,9 +9,14 @@ redirect_from:
 
 Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) for a printer-friendly version of my curriculum vitae. 
 
+Academic Appointments 
+------
+* Whyburn Research Associate and Lecturer, University of Virginia, VA, USA, Fall 2026 – Present
+  * Mentor: [Peter Humphries](https://sites.google.com/view/peterhumphries/)
+
 Education
 ------
-* Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-present (Expected 2026)
+* Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-2026
   * Advisor: [Jesse Thorner](https://sites.google.com/view/jessethorner)
 * M.S. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, awarded 2022
 * B.A. Mathematics major & Japanese minor, Bowdoin College, ME, USA, 2017-2021
@@ -154,7 +159,6 @@ $*$ = ranked as an excellent teacher by students.
 ## Workshops and Conferences Attended
 
 * Jun 2026: WIN7, Women in Numbers 7, Banff International Research Station, Alberta, Canada †
-* May 2026: DNTS, Duke Number Theory School, Durham, NC †
 * Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
 * Dec 2025: PANTS, Palmetto Number Theory Series, Clemson, SC  
 * Jun 2025: APAM, Annual Pure and Applied Mathematics Conference, Bangkok, Thailand  
