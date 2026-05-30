@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nawapan Wattanawanichkul, but I go by "Ploy". Originally from Ubon Ratchatani, Thailand, I received the King's Scholarship from the Thai government in 2016, which allowed me to pursue my undergraduate studies at Bowdoin College in the United States. Currently, I am working towards a Ph.D. in mathematics at the University of Illinois Urbana-Champaign, with a primary focus on analytic number theory, particularly in the theory of $L$-functions and automorphic forms.
+Hi there! Welcome to my page. My name is Nawapan Wattanawanichkul, but I go by "Ploy". Starting in Fall 2026, I will be a Whyburn Research Associate and Lecturer in the Department of Mathematics at the University of Virginia, where I will be working under the mentorship of Peter Humphries. I recently completed my Ph.D. in mathematics at the University of Illinois Urbana-Champaign under the supervision of Jesse Thorner. My research lies in analytic number theory, with a primary focus on the theory of $L$-functions and automorphic forms. 
+
+Originally from Ubon Ratchathani, Thailand, I was honored to receive the King's Scholarship from the Thai government in 2016, which supported my undergraduate studies at Bowdoin College in Maine. Thank you for stopping by, and please feel free to reach out if you would like to discuss number theory or collaborate!
 
 <!--- Outside of my academic pursuits, I have a passion for painting, baking, and traveling. On this platform, I'll be regularly sharing updates such as new papers, lecture notes, and memorable experiences, so be sure to stay tuned!---!>
 
