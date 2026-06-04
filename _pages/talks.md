@@ -27,26 +27,29 @@ author_profile: true
 
 ## Publications & preprints
 
-1. Zeros of Polynomials in Derivatives of Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2512.22451)  
-   (With Anji Dong and Alexandru Zaharescu, submitted 2025)
+1.The $\theta = \infty$ Conjecture and the Riemann Hypothesis for Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2605.24363) 
+   (With Anji Dong and Alexandru Zaharescu, submitted 2026) 
 
-2. A metric approach to zero-free regions for $L$-Functions. [(arXiv)](https://arxiv.org/abs/2504.05606)  
-   (Submitted 2025)
+2. Zeros of Polynomials in Derivatives of Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2512.22451)  
+   (With Anji Dong and Alexandru Zaharescu, under revision at *Mathematika*)
 
-3. Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. [(arXiv)](http://arxiv.org/abs/2405.05249)  
-   (With an appendix by Jesse Thorner, under revision at *Mathematische Zeitschrift*)
+3. A metric approach to zero-free regions for $L$-Functions. [(arXiv)](https://arxiv.org/abs/2504.05606)  
+   (Submitted 2025, under revision at *European Journal of Mathematics*)
 
-4. Walking to Infinity Along Some Number Theory Sequences. [(pdf)](https://math.colgate.edu/~integers/y78/y78.pdf)  
+4. Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. [(arXiv)](http://arxiv.org/abs/2405.05249)[(Journal)](https://doi.org/10.1007/s00209-026-04033-4)  
+   (With an appendix by Jesse Thorner) *Math. Z.* 313, 23 (2026).
+
+5. Walking to Infinity Along Some Number Theory Sequences. [(arXiv)](https://arxiv.org/abs/2010.14932)[(Journal)](https://math.colgate.edu/~integers/y78/y78.pdf)  
    (With Steven J. Miller, Fei Peng, Tudor Popescu, Joshua Siktar, and the Polymath REU program) *Integers* 24 (2024).
 
-5. An Alternative Approach to Computing $\beta(2k + 1)$. [(pdf)](http://math.colgate.edu/~integers/x72/x72.pdf)  
+6. An Alternative Approach to Computing $\beta(2k + 1)$. [(arXiv)](https://arxiv.org/abs/2309.13134)[(Journal)](http://math.colgate.edu/~integers/x72/x72.pdf)  
    (With Naomi Tanabe) *Integers* 23 (2023).
 
-6. Walking to Infinity on the Fibonacci Sequence. [(pdf)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf)  
-   (With Steven J. Miller, Fei Peng, Tudor Popescu) *Fibonacci Quart.* 60 (2022), no. 5, pp. 293-299.
+7. Walking to Infinity on the Fibonacci Sequence. [(arXiv)](https://arxiv.org/abs/2204.08138)[(Journal)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf)  
+   (With Steven J. Miller, Fei Peng, Tudor Popescu) *Fibonacci Quart.* 60 (2022).
 
-7. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$. [(pdf)](http://ploynawapan.github.io/files/miller11.pdf)  
-   (With Bencheng Li, Steven J. Miller, Daniel Sarnecki, Tudor Popescu) *J. Integer Seq.* 25 (2022), 21 pp.
+8. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$. [(arXiv)](https://arxiv.org/abs/2011.07386)[(Journal)](https://cs.uwaterloo.ca/journals/JIS/VOL25/Miller/miller11.pdf)  
+   (With Bencheng Li, Steven J. Miller, Daniel Sarnecki, Tudor Popescu) *J. Integer Seq.* 25 (2022).
 
 <!--
     
