@@ -158,7 +158,7 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Workshops and Conferences Attended
 
-* Jun 2026: WIN7, Women in Numbers 7, Banff International Research Station, Alberta, Canada †
+* Jun 2026: WIN7, Women in Numbers 7, Banff International Research Station, Alberta, Canada 
 * Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
 * Dec 2025: PANTS, Palmetto Number Theory Series, Clemson, SC  
 * Jun 2025: APAM, Annual Pure and Applied Mathematics Conference, Bangkok, Thailand  
