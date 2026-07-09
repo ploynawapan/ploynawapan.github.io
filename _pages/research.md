@@ -34,21 +34,21 @@ author_profile: true
    (With Anji Dong and Alexandru Zaharescu, under revision at *Mathematika*)
 
 3. A metric approach to zero-free regions for $L$-Functions. [(arXiv)](https://arxiv.org/abs/2504.05606)[(DOI)](https://www.doi.org/10.1007/s40879-026-00913-5)
-  *European Journal of Mathematics* 12, 30 (2026).
+    *European Journal of Mathematics* 12, 30 (2026).
 
-4. Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. [(arXiv)](http://arxiv.org/abs/2405.05249)[(DOI)](https://doi.org/10.1007/s00209-026-04033-4)  
+5. Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. [(arXiv)](http://arxiv.org/abs/2405.05249)[(DOI)](https://doi.org/10.1007/s00209-026-04033-4)  
    (With an appendix by Jesse Thorner) *Math. Z.* 313, 23 (2026).
 
-5. Walking to Infinity Along Some Number Theory Sequences. [(arXiv)](https://arxiv.org/abs/2010.14932)[(DOI)](https://math.colgate.edu/~integers/y78/y78.pdf)  
+6. Walking to Infinity Along Some Number Theory Sequences. [(arXiv)](https://arxiv.org/abs/2010.14932)[(DOI)](https://math.colgate.edu/~integers/y78/y78.pdf)  
    (With Steven J. Miller, Fei Peng, Tudor Popescu, Joshua Siktar, and the Polymath REU program) *Integers* 24 (2024).
 
-6. An Alternative Approach to Computing $\beta(2k + 1)$. [(arXiv)](https://arxiv.org/abs/2309.13134)[(DOI)](http://math.colgate.edu/~integers/x72/x72.pdf)  
+7. An Alternative Approach to Computing $\beta(2k + 1)$. [(arXiv)](https://arxiv.org/abs/2309.13134)[(DOI)](http://math.colgate.edu/~integers/x72/x72.pdf)  
    (With Naomi Tanabe) *Integers* 23 (2023).
 
-7. Walking to Infinity on the Fibonacci Sequence. [(arXiv)](https://arxiv.org/abs/2204.08138)[(DOI)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf)  
+8. Walking to Infinity on the Fibonacci Sequence. [(arXiv)](https://arxiv.org/abs/2204.08138)[(DOI)](https://www.fq.math.ca/Papers1/60-5/miller2.pdf)  
    (With Steven J. Miller, Fei Peng, Tudor Popescu) *Fibonacci Quart.* 60 (2022).
 
-8. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$. [(arXiv)](https://arxiv.org/abs/2011.07386)[(DOI)](https://cs.uwaterloo.ca/journals/JIS/VOL25/Miller/miller11.pdf)  
+9. Modeling Random Walks to Infinity on Primes in $\mathbb{Z}[\sqrt{2}]$. [(arXiv)](https://arxiv.org/abs/2011.07386)[(DOI)](https://cs.uwaterloo.ca/journals/JIS/VOL25/Miller/miller11.pdf)  
    (With Bencheng Li, Steven J. Miller, Daniel Sarnecki, Tudor Popescu) *J. Integer Seq.* 25 (2022).
 
 <!--
