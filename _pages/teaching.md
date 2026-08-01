@@ -27,6 +27,9 @@ author_profile: true
 
 ## Teaching Experience
 
+* *Lecturer*, University of Virginia
+    - Fall 2026: MATH 3310 Basic Real Analysis (Currently Teaching) 
+
 * *Graduate Teaching Assistant*, University of Illinois Urbana-Champaign
     - Fall 2025: MATH 231 Calculus II, Integral Calculus
     - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
