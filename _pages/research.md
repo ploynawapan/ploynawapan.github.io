@@ -30,8 +30,8 @@ author_profile: true
 1. The $\theta = \infty$ Conjecture and the Riemann Hypothesis for Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2605.24363)  
    (With Anji Dong and Alexandru Zaharescu, submitted 2026) 
 
-2. Zeros of Polynomials in Derivatives of Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2512.22451)  
-   (With Anji Dong and Alexandru Zaharescu, under revision at *Mathematika*)
+2. Zeros of Polynomials in Derivatives of Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2512.22451)[(DOI)](https://doi.org/10.1112/mtk.70120)<br />
+   (With Anji Dong and Alexandru Zaharescu) *Mathematika* 72, e70120 (2026).
 
 3. A metric approach to zero-free regions for $L$-Functions. [(arXiv)](https://arxiv.org/abs/2504.05606)[(DOI)](https://www.doi.org/10.1007/s40879-026-00913-5)<br />*European Journal of Mathematics* 12, 30 (2026).
 
