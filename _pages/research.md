@@ -25,7 +25,7 @@ author_profile: true
 }
 </style>
 
-## Publications & preprints
+## Publications & Preprints
 
 1. The $\theta = \infty$ Conjecture and the Riemann Hypothesis for Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2605.24363)  
    (With Anji Dong and Alexandru Zaharescu, submitted 2026) 
