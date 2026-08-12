@@ -40,7 +40,7 @@ author_profile: true
     - Spring 2022: MATH 220 Calculus, Differential Calculus †
     - Fall 2021: MATH 231 Calculus II, Integral Calculus
     
-  † *indicates "ranked as an excellent teacher by students".*
+  † *indicates "ranked as an excellent teacher by students". The ranking system has been retired starting Fall 2025*
 
 * *Graduate Mathematics Grader*, **University of Illinois Urbana-Champaign**
     - Summer 2023: MATH 347 Fundamental Mathematics
