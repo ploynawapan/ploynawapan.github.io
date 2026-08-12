@@ -27,10 +27,10 @@ author_profile: true
 
 ## Teaching Experience
 
-* *Lecturer*, **University of Virginia**
+* *Lecturer*, University of Virginia
     - Fall 2026: MATH 3310 Basic Real Analysis (Currently teaching) 
 
-* *Graduate Teaching Assistant*, **University of Illinois Urbana-Champaign**
+* *Graduate Teaching Assistant*, University of Illinois Urbana-Champaign
     - Fall 2025: MATH 231 Calculus II, Integral Calculus
     - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
     - Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
@@ -42,12 +42,12 @@ author_profile: true
     
   † *indicates "ranked as an excellent teacher by students". The ranking system has been retired since Fall 2025*
 
-* *Graduate Mathematics Grader*, **University of Illinois Urbana-Champaign**
+* *Graduate Mathematics Grader*, University of Illinois Urbana-Champaign
     - Summer 2023: MATH 347 Fundamental Mathematics
 
-* *Quantitative Reasoning Tutor*, **Bowdoin College**
+* *Quantitative Reasoning Tutor*, Bowdoin College
 
-* *Undergraduate Mathematics Grader*, **Bowdoin College**
+* *Undergraduate Mathematics Grader*, Bowdoin College
     - Fall 2019: MATH 2303 Functions of Complex Variables
     - Fall 2019: MATH 2602 Introduction to Group Theory
     - Spring 2019: MATH 2020 Mathematical Reasoning
@@ -55,11 +55,11 @@ author_profile: true
 
 ## Mentorship & Outreach
 
-- Fall 2024: Instructor for UIUC Math Circle, **University of Illinois Urbana-Champaign**
+- Fall 2024: Instructor for UIUC Math Circle, University of Illinois Urbana-Champaign
 - Summer 2020: Polymath Jr. REU Teaching Assistant, Remote
-- Summers 2022, 2017, 2016: Invited Speaker, **Benchama Maharat School**, Thailand
-- Winters 2018, 2019: Academic Program Assistant, **SIT Graduate institution**, VT, US
-- Summer 2018: Academic Program Assistant, **Brewster Academy**, NH, US
+- Summers 2022, 2017, 2016: Invited Speaker, Benchama Maharat School, Thailand
+- Winters 2018, 2019: Academic Program Assistant, SIT Graduate institution, VT, US
+- Summer 2018: Academic Program Assistant, Brewster Academy, NH, US
 - Summer 2017: Teaching Volunteer, Chiangrai, Thailand
 
 ## Some teaching highlights
