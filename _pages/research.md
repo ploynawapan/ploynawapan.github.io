@@ -33,7 +33,7 @@ author_profile: true
 2. Zeros of Polynomials in Derivatives of Automorphic $L$-functions. [(arXiv)](https://arxiv.org/abs/2512.22451)[(DOI)](https://doi.org/10.1112/mtk.70120)<br />
    (With Anji Dong and Alexandru Zaharescu) *Mathematika* 72, e70120 (2026).
 
-3. A metric approach to zero-free regions for $L$-Functions. [(arXiv)](https://arxiv.org/abs/2504.05606)[(DOI)](https://www.doi.org/10.1007/s40879-026-00913-5)<br />*European Journal of Mathematics* 12, 30 (2026).
+3. A metric approach to zero-free regions for $L$-Functions. [(arXiv)](https://arxiv.org/abs/2504.05606)[(DOI)](https://www.doi.org/10.1007/s40879-026-00913-5)<br />*Eur. J. Math.* 12, 30 (2026).
 
 4. Effective correlation and decorrelation for newforms, and weak subconvexity for $L$-functions. [(arXiv)](http://arxiv.org/abs/2405.05249)[(DOI)](https://doi.org/10.1007/s00209-026-04033-4)  
    (With an appendix by Jesse Thorner) *Math. Z.* 313, 23 (2026).
