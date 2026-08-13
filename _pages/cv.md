@@ -12,7 +12,7 @@ Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) fo
 ## Academic Appointments 
 * Whyburn Research Associate and Lecturer, University of Virginia, VA, USA, Fall 2026 – Present
   * Mentor: [Peter Humphries](https://sites.google.com/view/peterhumphries/)
-
+  
 ## Education
 * Ph.D. in Mathematics, University of Illinois Urbana-Champaign, IL, USA, 2021-2026
   * Advisor: [Jesse Thorner](https://sites.google.com/view/jessethorner)
