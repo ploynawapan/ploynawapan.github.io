@@ -62,6 +62,8 @@ author_profile: true
 - Summer 2018: Academic Program Assistant, Brewster Academy, NH, US
 - Summer 2017: Teaching Volunteer, Chiangrai, Thailand
 
+<!--
+
 ## Some teaching highlights
 
 <div style="font-size: 0.9em;" markdown="1">
@@ -72,6 +74,8 @@ author_profile: true
 * [Teaching Volunteer (Kru-Ar-Sah)](/teaching/2017-volunteer-chiangrai)
 
 </div>
+
+  -->
 
 <!-- <head>
   <meta charset="UTF-8">
