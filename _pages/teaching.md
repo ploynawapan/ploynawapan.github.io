@@ -42,12 +42,12 @@ author_profile: true
     
   † *indicates "ranked as an excellent teacher by students". The ranking system has been retired since Fall 2025*
 
-* *Graduate Mathematics Grader*, University of Illinois Urbana-Champaign
+* <span style="color:#8B0000;">Graduate Mathematics Grader</span>, University of Illinois Urbana-Champaign
     - Summer 2023: MATH 347 Fundamental Mathematics
 
-* *Quantitative Reasoning Tutor*, Bowdoin College
+* <span style="color:#8B0000;">Quantitative Reasoning Tutor</span>, Bowdoin College
 
-* *Undergraduate Mathematics Grader*, Bowdoin College
+* <span style="color:#8B0000;">Undergraduate Mathematics Grader</span>, Bowdoin College
     - Fall 2019: MATH 2303 Functions of Complex Variables
     - Fall 2019: MATH 2602 Introduction to Group Theory
     - Spring 2019: MATH 2020 Mathematical Reasoning
