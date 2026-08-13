@@ -27,7 +27,7 @@ author_profile: true
 
 ## Teaching Experience
 
-* *Lecturer*, University of Virginia
+* <span style="color:#8B0000;">Lecturer</span>, University of Virginia
     - Fall 2026: MATH 3310 Basic Real Analysis (Currently teaching) 
 
 * *Graduate Teaching Assistant*, University of Illinois Urbana-Champaign
