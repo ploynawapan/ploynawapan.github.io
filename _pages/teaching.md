@@ -30,7 +30,7 @@ author_profile: true
 * <span style="color:#8B0000;">Lecturer</span>, University of Virginia
     - Fall 2026: MATH 3310 Basic Real Analysis (Currently teaching) 
 
-* <span style="color:red;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
+* <span style="color:#8B0000;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
     - Fall 2025: MATH 231 Calculus II, Integral Calculus
     - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
     - Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
