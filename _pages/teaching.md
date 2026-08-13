@@ -60,7 +60,7 @@ author_profile: true
 - Summers 2022, 2017, 2016: Invited Speaker, Benchama Maharat School, Thailand
 - Winters 2018, 2019: Academic Program Assistant, SIT Graduate institution, VT, US
 - Summer 2018: Academic Program Assistant, Brewster Academy, NH, US
-- Summer 2017: Teaching Volunteer, Chiangrai, Thailand
+- Summer 2017: Teaching Volunteer (Kru-Ah-Sa), Chiangrai, Thailand
 
 <!--
 
