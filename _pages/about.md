@@ -12,6 +12,8 @@ Hi there! Welcome to my page. My name is Nawapan Wattanawanichkul, but I go by "
 
 Originally from Ubon Ratchathani, Thailand, I was honored to receive the King's Scholarship from the Thai government in 2016, which supported my undergraduate studies at Bowdoin College in Maine. Thank you for stopping by, and please feel free to reach out if you would like to discuss number theory or collaborate!
 
+---
+
 **Office**:	Kerchof Hall 223, Department of Mathematics, University of Virginia<br>
 **Email**: ploy (dot) wattana (at) virginia (dot) edu
 
