@@ -125,10 +125,10 @@ $*$ = ranked as an excellent teacher by students.
   
 ## Invited Talks
 
-* University of Virginia Ramanujan-Serre Seminar, Charlottesville, VA, Sep 2026.<sup>†</sup>
+* University of Virginia Ramanujan-Serre Seminar, Charlottesville, VA, Sep 2026.†
 * Kansas State University Number Theory Seminar, Manhattan, KS, Feb 2026. 
 * JMM: AMS Special Session on Recent Trends in Analytic Number Theory, Washington, DC, Jan 2026.  
-* Palmetto Number Theory Series (PANTS), Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
+* Palmetto Number Theory Series (PANTS) XL, Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
 * JMM: AMS Special Session on Current Directions in Modular Forms, Seattle, WA, Jan 2025.  
 * Kansas State University Graduate Student Number Theory Seminar, Sep 2024. *(remote)*  
 * Shandong University Number Theory Seminar, Jun 2024. *(remote)*  
@@ -140,6 +140,7 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Contributed Talks
 
+* Palmetto Number Theory Series (PANTS) XLI, Atlanta, GA, Oct 2026.†
 * Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
 * Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
 * Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
@@ -156,9 +157,10 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Workshops and Conferences Attended
 
+* Oct 2026: PANTS XLI, Palmetto Number Theory Series, Atlanta, GA.†
 * Jun 2026: WIN7, Women in Numbers 7, Banff International Research Station, Alberta, Canada 
 * Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
-* Dec 2025: PANTS, Palmetto Number Theory Series, Clemson, SC  
+* Dec 2025: PANTS XL, Palmetto Number Theory Series, Clemson, SC  
 * Jun 2025: APAM, Annual Pure and Applied Mathematics Conference, Bangkok, Thailand  
 * Jun 2025: CNA, Conference in Number Theory and Applications, Bangkok, Thailand  
 * Apr 2025: AFW, Automorphic Forms Workshop, Denton, TX  
