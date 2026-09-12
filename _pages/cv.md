@@ -140,7 +140,6 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Contributed Talks
 
-* Palmetto Number Theory Series (PANTS) XLI, Atlanta, GA, Oct 2026.†
 * Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
 * Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
 * Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
