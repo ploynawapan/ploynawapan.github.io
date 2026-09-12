@@ -10,7 +10,7 @@ redirect_from:
 Click [here](http://ploynawapan.github.io/files/Updated_Curriculum_Vitae.pdf) for a printer-friendly version of my curriculum vitae. 
 
 ## Academic Appointments 
-* Whyburn Research Associate and Lecturer, University of Virginia, VA, USA, Fall 2026 – Present
+* Whyburn Research Associate and Lecturer, University of Virginia, VA, USA, Fall 2026–Present
   * Mentor: [Peter Humphries](https://sites.google.com/view/peterhumphries/)
   
 ## Education
