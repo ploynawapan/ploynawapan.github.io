@@ -125,7 +125,7 @@ $*$ = ranked as an excellent teacher by students.
   
 ## Invited Talks
 
-* University of Virginia Ramanujan-Serre Seminar, Charlottesville, VA, Sep 2026.†
+* University of Virginia Ramanujan-Serre Seminar, Charlottesville, VA, Sep 2026.
 * Kansas State University Number Theory Seminar, Manhattan, KS, Feb 2026. 
 * JMM: AMS Special Session on Recent Trends in Analytic Number Theory, Washington, DC, Jan 2026.  
 * Palmetto Number Theory Series (PANTS) XL, Clemson, SC, Dec 2025. *(Invited graduate student speaker)*  
@@ -140,6 +140,7 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Contributed Talks
 
+* Palmetto Number Theory Series (PANTS) XLI, Atlanta, GA.†
 * Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
 * Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
 * Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
@@ -175,9 +176,11 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Professional Services
 
-**Referee:**  
+**Journal Referee:**  
 International Mathematics Research Notices, Revue Roumaine des Sciences Techniques, Mathematical Reports.
 
+**Reviewer:** 
+Mathematical Reviews (MathSciNet), American Mathematical Society.
 
 
  
