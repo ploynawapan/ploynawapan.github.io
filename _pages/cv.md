@@ -140,7 +140,7 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Contributed Talks
 
-* Palmetto Number Theory Series (PANTS) XLI, Atlanta, GA.†
+* Palmetto Number Theory Series (PANTS) XLI, Atlanta, GA.
 * Annual Pure and Applied Mathematics (APAM) Conference, Bangkok, Thailand, Jun 2025.  
 * Conference in Number Theory and Applications (CNA), Bangkok, Thailand, Jun 2025.  
 * Automorphic Forms Workshop (AFW), Denton, TX, Apr 2025.  
@@ -157,7 +157,7 @@ $*$ = ranked as an excellent teacher by students.
 
 ## Workshops and Conferences Attended
 
-* Oct 2026: PANTS XLI, Palmetto Number Theory Series, Atlanta, GA.†
+* Oct 2026: PANTS XLI, Palmetto Number Theory Series, Atlanta, GA.
 * Jun 2026: WIN7, Women in Numbers 7, Banff International Research Station, Alberta, Canada 
 * Jan 2026: JMM, Joint Mathematics Meeting, Washington, DC  
 * Dec 2025: PANTS XL, Palmetto Number Theory Series, Clemson, SC  
