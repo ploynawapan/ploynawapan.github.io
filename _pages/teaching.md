@@ -28,43 +28,49 @@ author_profile: true
 ## Teaching Experience
 
 * <span style="color:#8B0000;">Whyburn Lecturer and Research Associate</span>, University of Virginia
-    - **Spring 2027**
+    - SP 2027
         - MATH 3310: Basic Real Analysis
         - MATH 3340: Complex Variables with Applications
-    - **Fall 2026** (currently teaching)
+    - FA 2026 (currently teaching)
         - MATH 3310: Basic Real Analysis
+     
+## Teaching During Graduate Studies
 
 * <span style="color:#8B0000;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
-    - Fall 2025: MATH 231 Calculus II, Integral Calculus
-    - Summer 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
-    - Spring 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
-    - Fall 2023: MATH 221 Calculus I, Differential Calculus †
-    - Spring 2023: MATH 220 Calculus, Differential Calculus (Head TA) †
-    - Fall 2022: MATH 220 Calculus, Differential Calculus †
-    - Spring 2022: MATH 220 Calculus, Differential Calculus †
-    - Fall 2021: MATH 231 Calculus II, Integral Calculus
+    - FA 2025: MATH 231 Calculus II, Integral Calculus
+    - SM 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
+    - SP 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
+    - FA 2023: MATH 221 Calculus I, Differential Calculus †
+    - SP 2023: MATH 220 Calculus, Differential Calculus (Head TA) †
+    - FA 2022: MATH 220 Calculus, Differential Calculus †
+    - SP 2022: MATH 220 Calculus, Differential Calculus †
+    - FA 2021: MATH 231 Calculus II, Integral Calculus
     
   † *indicates "ranked as an excellent teacher by students". The ranking system has been retired since Fall 2025*
 
 * <span style="color:#8B0000;">Graduate Mathematics Grader</span>, University of Illinois Urbana-Champaign
-    - Summer 2023: MATH 347 Fundamental Mathematics
+    - SU 2023: MATH 347 Fundamental Mathematics
+
+## Teaching During Undergraduate Studies
 
 * <span style="color:#8B0000;">Quantitative Reasoning Tutor</span>, Bowdoin College
 
 * <span style="color:#8B0000;">Undergraduate Mathematics Grader</span>, Bowdoin College
-    - Fall 2019: MATH 2303 Functions of Complex Variables
-    - Fall 2019: MATH 2602 Introduction to Group Theory
-    - Spring 2019: MATH 2020 Mathematical Reasoning
-    - Fall 2018: MATH 2020 Mathematical Reasoning
+    - FA 2019: MATH 2303 Functions of Complex Variables
+    - FA 2019: MATH 2602 Introduction to Group Theory
+    - SP 2019: MATH 2020 Mathematical Reasoning
+    - FA 2018: MATH 2020 Mathematical Reasoning
 
 ## Mentorship & Outreach
 
-- Fall 2024: Instructor for UIUC Math Circle, University of Illinois Urbana-Champaign
-- Summer 2020: Polymath Jr. REU Teaching Assistant, Remote
-- Summers 2022, 2017, 2016: Invited Speaker, Benchama Maharat School, Thailand
-- Winters 2018, 2019: Academic Program Assistant, SIT Graduate institution, VT, US
-- Summer 2018: Academic Program Assistant, Brewster Academy, NH, US
-- Summer 2017: Teaching Volunteer (Kru-Ah-Sa), Chiangrai, Thailand
+- FA 2024: Instructor for UIUC Math Circle, University of Illinois Urbana-Champaign
+- SU 2020: Polymath Jr. REU Teaching Assistant, Remote
+- SU 2022, 2017, 2016: Invited Speaker, Benchama Maharat School, Thailand
+- WI 2018, 2019: Academic Program Assistant, SIT Graduate institution, VT, US
+- SU 2018: Academic Program Assistant, Brewster Academy, NH, US
+- SU 2017: Teaching Volunteer (Kru-Ah-Sa), Chiangrai, Thailand
+
+*FA = Fall, SP = Spring, SU = Summer, and WI = Winter*
 
 <!--
 
