@@ -28,7 +28,11 @@ author_profile: true
 ## Teaching Experience
 
 * <span style="color:#8B0000;">Whyburn Lecturer and Research Associate</span>, University of Virginia
-    - Fall 2026: MATH 3310 Basic Real Analysis (Currently teaching) 
+    - **Spring 2027**
+        - MATH 3310: Basic Real Analysis
+        - MATH 3340: Complex Variables with Applications
+    - **Fall 2026** (currently teaching)
+        - MATH 3310: Basic Real Analysis
 
 * <span style="color:#8B0000;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
     - Fall 2025: MATH 231 Calculus II, Integral Calculus
