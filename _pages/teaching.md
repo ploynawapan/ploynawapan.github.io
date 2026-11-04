@@ -45,11 +45,11 @@ author_profile: true
     - FA 2022: MATH 220 Calculus, Differential Calculus †
     - SP 2022: MATH 220 Calculus, Differential Calculus †
     - FA 2021: MATH 231 Calculus II, Integral Calculus
-    
-  † *indicates "ranked as an excellent teacher by students". The ranking system has been retired since Fall 2025*
-
+      
 * <span style="color:#8B0000;">Graduate Mathematics Grader</span>, University of Illinois Urbana-Champaign
     - SU 2023: MATH 347 Fundamental Mathematics
+
+† *indicates "ranked as an excellent teacher by students". The ranking system has been retired since Fall 2025*
 
 ## Teaching During Undergraduate Studies
 
