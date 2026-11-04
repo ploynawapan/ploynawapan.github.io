@@ -28,7 +28,6 @@ author_profile: true
 ## Teaching Experience
 
 * <span style="color:#8B0000;">Whyburn Lecturer and Research Associate</span>, University of Virginia
-  
     - SP 2027
         - MATH 3310: Basic Real Analysis
         - MATH 3340: Complex Variables with Applications
@@ -45,8 +44,7 @@ author_profile: true
     - SP 2023: MATH 220 Calculus, Differential Calculus (Head TA) †
     - FA 2022: MATH 220 Calculus, Differential Calculus †
     - SP 2022: MATH 220 Calculus, Differential Calculus †
-    - FA 2021: MATH 231 Calculus II, Integral Calculus
-      
+    - FA 2021: MATH 231 Calculus II, Integral Calculus      
 * <span style="color:#8B0000;">Graduate Mathematics Grader</span>, University of Illinois Urbana-Champaign
     - SU 2023: MATH 347 Fundamental Mathematics
 
@@ -55,7 +53,6 @@ author_profile: true
 ## Teaching During Undergraduate Studies
 
 * <span style="color:#8B0000;">Quantitative Reasoning Tutor</span>, Bowdoin College
-
 * <span style="color:#8B0000;">Undergraduate Mathematics Grader</span>, Bowdoin College
     - FA 2019: MATH 2303 Functions of Complex Variables
     - FA 2019: MATH 2602 Introduction to Group Theory
