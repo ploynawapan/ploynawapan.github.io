@@ -28,6 +28,7 @@ author_profile: true
 ## Teaching Experience
 
 * <span style="color:#8B0000;">Whyburn Lecturer and Research Associate</span>, University of Virginia
+  
     - SP 2027
         - MATH 3310: Basic Real Analysis
         - MATH 3340: Complex Variables with Applications
