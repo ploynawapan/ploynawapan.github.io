@@ -27,16 +27,14 @@ author_profile: true
 
 ## Teaching Experience
 
-* <span style="color:#8B0000;">Whyburn Lecturer and Research Associate</span>, University of Virginia
-    - SP 2027
-        - MATH 3310: Basic Real Analysis
-        - MATH 3340: Complex Variables with Applications
-    - FA 2026 (currently teaching)
-        - MATH 3310: Basic Real Analysis
+* _Whyburn Lecturer and Research Associate_, University of Virginia
+    - SP 2027: MATH 3310 Basic Real Analysis
+    - SP 2027: MATH 3340 Complex Variables with Applications
+    - FA 2026: MATH 3310: Basic Real Analysis (currently teaching)
      
 ## Teaching During Graduate Studies
 
-* <span style="color:#8B0000;">Graduate Teaching Assistant</span>, University of Illinois Urbana-Champaign
+* _Graduate Teaching Assistant_, University of Illinois Urbana-Champaign
     - FA 2025: MATH 231 Calculus II, Integral Calculus
     - SM 2024: MATH 257 Linear Algebra with Computational Applications (NetMath program)
     - SP 2024: MATH 220 Calculus, Differential Calculus (Head TA) †
@@ -45,15 +43,15 @@ author_profile: true
     - FA 2022: MATH 220 Calculus, Differential Calculus †
     - SP 2022: MATH 220 Calculus, Differential Calculus †
     - FA 2021: MATH 231 Calculus II, Integral Calculus      
-* <span style="color:#8B0000;">Graduate Mathematics Grader</span>, University of Illinois Urbana-Champaign
+* _Graduate Mathematics Grader_, University of Illinois Urbana-Champaign
     - SU 2023: MATH 347 Fundamental Mathematics
 
 † *indicates "ranked as an excellent teacher by students". The ranking system has been retired since Fall 2025*
 
 ## Teaching During Undergraduate Studies
 
-* <span style="color:#8B0000;">Quantitative Reasoning Tutor</span>, Bowdoin College
-* <span style="color:#8B0000;">Undergraduate Mathematics Grader</span>, Bowdoin College
+* _Quantitative Reasoning Tutor_, Bowdoin College
+* _Undergraduate Mathematics Grader_, Bowdoin College
     - FA 2019: MATH 2303 Functions of Complex Variables
     - FA 2019: MATH 2602 Introduction to Group Theory
     - SP 2019: MATH 2020 Mathematical Reasoning
